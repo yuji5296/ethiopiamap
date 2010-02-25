@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vlm">
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" href="./css/main.css" />
+<script src="./js/main.js" type="text/javascript"></script>
+<script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAA30Kifjd6uI7xqx78wLD32RQG3TvMZPnlhKAqgBu4MxmOsqz0fBSOODMvYM7mb_yawMZImqa4hRYUhw" type="text/javascript"></script>
+<title> ethiopia map for everyone</title>
+</head>
+<body>
+ <div id="map"></div>
+</body>
+</html>
+
+<form name="MyForm">
+<div id="ctrl_shadow"></div>
+<div id="ctrl_base">
+    <div id="ctrl_innerbase">
+wide
+<input type="radio" name="zoom" id="zoom0" />
+<input type="radio" name="zoom" id="zoom1" />
+<input type="radio" name="zoom" id="zoom2" />
+<input type="radio" name="zoom" id="zoom3" />
+<input type="radio" name="zoom" id="zoom4" />
+detail｜
+<img src="./pic/iconm.png" id="marker_icon" align="top" />
+N&E
+<span id="latlng"></span>
+  </div>
+</div>
+</form>
+<div id="footer_shadow"></div> <!-- 影 -->
+<div id="footer_base">
+    <div id="footer_innerbase">
+        <span id="copyright">(C)2010 ethiojapan trading</span>
+    </div>
+</div>
+<div id="menu_shadow"></div>
+<div id="menu_base">
+    <div class="menu_title">search address</div>
+    <div class="menu_innerbase">
+        <input type="text" id="address" />
+        <input type="button" id="address_button" value="search" />
+        <input type="checkbox" id="cb1" onClick="checkbox1clicked()">marker 1
+        <input type="checkbox" id="cb2" onclick="checkbox2clicked()">marker 2
+    </div>
+   
+    <div id="INFO"></div>
+</div>
+
+
+
+
+ 
+<!-- JavaScript外部ファイル -->
+
+<script src="./js/lib.js" type="text/javascript"></script>
+<script src="./js/flickr.js" type="text/javascript"></script>
+<script src="./js/template.js" type="text/javascript"></script>
+
+
