@@ -1,0 +1,197 @@
+
+
+body {
+	background-color: #e0e0e0;
+	font-size: 11pt;
+}
+
+input	{
+	font-size: 9pt;
+}
+
+option, select	{
+	font-size: 9pt;
+}
+
+textarea	{
+	font-size: 9pt;
+	line-height: 1.3em;
+}
+
+div#title_shadow {
+	width: 792px;
+	height: 24px;
+	position: absolute;
+	top: 12px;
+	left: 12px;
+	background-color: #909090;
+}
+
+div#title_base {
+	width: 792px;
+	height: 24px;
+	position: absolute;
+	top:8px; left:8px;
+	background-color: #404040;
+}
+
+div#map_shadow {
+	width: 580px;
+	height: 580px;
+	position: absolute;
+	top: 44px;
+	left: 12px;
+	background-color: #909090;
+}
+
+div#map_base {
+	width: 580px;
+	height: 580px;
+	position: absolute;
+	top: 40px;
+	left: 8px;
+	background-color: white;
+}
+
+div#map {
+	width:580px;
+	height: 580px;
+	position:relative;
+	top:32px;
+	left:10px;
+}
+
+div#menu_shadow {
+	width: 204px;
+	height: 620px;
+	position: absolute;
+	top: 44px;
+	left: 600px;
+	background-color: #909090;
+}
+
+div#menu_base {
+	width: 204px;
+	height: 620px;
+	position: absolute;
+	top: 40px;
+	left: 600px;
+	background-color: white;
+}
+
+div.menu_title {
+	background-color: #404040;
+	width: 180px;
+	height: 18px;
+	text-align: center;
+	margin: 10px auto 4px auto;
+	padding-top: 2px;
+	color: white;
+}
+
+div.menu_innerbase {
+	margin: 0px auto 8px auto;
+	width: 180px;
+}
+
+div.menu_button {
+	width: 85px;
+}
+
+div#INFO {
+	width: 180px;
+	height: 200px;
+	margin: 12px auto 12px auto;
+}
+
+div#ctrl_shadow {
+	width: 580px;
+	height: 32px;
+	position:absolute;
+	top:632px;
+	left:12px;
+	background-color:#909090;
+}
+
+div#ctrl_base {
+	width:650px;
+	height: 32px;
+	position: absolute;
+	top: 628px;
+	left: 8px;
+	background-color: white;
+}
+
+div#ctrl_innerbase {
+	width: 650px;
+	height: 24px;
+	position: relative;
+	top: 4px;
+	left: 10px;
+	font-size: 11pt;
+}
+
+img#marker_icon {
+	width: 28px;
+	height: 24px;
+	margin-left:24px;
+	margin-right:8px;
+	cursor:pointer;
+}
+
+span#latlng {
+	font-size: 14pt;
+}
+
+div#footer_shadow {
+	width: 792px;
+	height: 18px;
+	position: absolute;
+	top: 672px;
+	left: 12px;
+	background-color: #909090;
+}
+
+div#footer_base {
+	width: 792px;
+	height: 18px;
+	position: absolute;
+	top: 668px;
+	left: 8px;
+	background-color: #404040;
+}
+
+div#footer_innerbase {
+	width: 782px;
+	height: 18px;
+	text-align: right;
+}
+
+span#copyright {
+	font-size: 9pt;
+	color: white;
+}
+
+/* ’Þ‰Ê“ü—Í */
+
+input.fish	{
+	border: none;
+	border-bottom: solid #f0d040 1px;
+	background-color: #e8e8e8;
+	color: black;
+	padding:2px 2px;
+}
+
+td.fish	{
+	background-color: #e8e8e8;
+}
+
+td.fisht	{
+	background-color: #d8d8d8;
+	text-align:center;
+}
+
+textarea.fish	{
+	border:solid #f0d040 1px;
+}
+
