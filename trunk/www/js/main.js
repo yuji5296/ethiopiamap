@@ -1,7 +1,11 @@
-  var marker1_is_displayed = 0;
-  var marker2_is_displayed = 0;
- 
- 
+﻿var marker1_is_displayed ;
+var marker2_is_displayed ;
+var marker3_is_displayed ;
+var marker1;
+var marker2;
+var marker3;
+
+
  window.onload = function() {
         init();
     }
@@ -57,21 +61,34 @@ function initGMaps() {
         map.addControl(new GMapTypeControl());
         map.addControl(new GLargeMapControl());
         map.addControl(new GOverviewMapControl(new GSize(128,128)));
-       
+        
+		map.addMapType(G_NORMAL_MAP);
+		map.addMapType(G_SATELLITE_3D_MAP);
+		
+		//BaseURL = "http://localhost/mash_05level1/";
+		BaseURL = "http://www.ethiopiamap.sakura.ne.jp/";
+		
+        //var geoXml = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_Route_AA.kml"); 
+        //map.addOverlay(geoXml); 
+        //marker1 = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_Route_AA.kml"); 
+        marker1 = new GGeoXml(BaseURL + "kml/Minibus_Route_AA.kml"); 
+        map.addOverlay(marker1); 
+        //marker2 = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/embassy_location_AA.kml"); 
+        marker2 = new GGeoXml(BaseURL + "kml/embassy_location_AA.kml"); 
+        map.addOverlay(marker2); 
+        //marker3 = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_station_location_AA.kml");
+        marker3 = new GGeoXml(BaseURL +"kml/Minibus_station_location_AA.kml");
+        map.addOverlay(marker3); 
+        //marker1 = new GMarker(new GLatLng(36.02, 139.16));
+        //marker2 = new GMarker(new GLatLng(36.03, 139.17));
+        marker1_is_displayed = 1;
+        marker2_is_displayed = 1;
+        marker3_is_displayed = 1;
 
-        
-        var geoXml = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_Route_AA.kml"); 
-        map.addOverlay(geoXml); 
-        var geoXml = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/embassy_location_AA.kml"); 
-        map.addOverlay(geoXml); 
-        var geoXml = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_station_location_AA.kml"); 
-        map.addOverlay(geoXml); 
-        marker1 = new GMarker(new GLatLng(36.02, 139.16));
-        marker2 = new GMarker(new GLatLng(36.03, 139.17));
-       
-        
+		//map.setMapType(G_SATELLITE_3D_MAP);
         
         }
+
 }
 
    
@@ -147,4 +164,19 @@ function checkbox2clicked() {
       }
     }
 
+function checkbox3clicked() {
+      if (marker3_is_displayed == 0) {
+        map.addOverlay(marker3);
+        marker3_is_displayed = 1;
+      } else {
+        map.removeOverlay(marker3);
+        marker3_is_displayed = 0;
+      }
+}
 
+function radio_map_clicked(){
+	map.setMapType(G_NORMAL_MAP);
+}
+function radio_earth_clicked(){
+	map.setMapType(G_SATELLITE_3D_MAP);
+}

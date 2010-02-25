@@ -4,14 +4,19 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <link rel="stylesheet" type="text/css" href="./css/main.css" />
+<!-- JavaScript外部ファイル -->
+
+<script src="./js/lib.js" type="text/javascript"></script>
+<script src="./js/flickr.js" type="text/javascript"></script>
+<script src="./js/template.js" type="text/javascript"></script>
+
 <script src="./js/main.js" type="text/javascript"></script>
 <script src="http://maps.google.com/maps?file=api&v=1&key=ABQIAAAA30Kifjd6uI7xqx78wLD32RQG3TvMZPnlhKAqgBu4MxmOsqz0fBSOODMvYM7mb_yawMZImqa4hRYUhw" type="text/javascript"></script>
 <title> ethiopia map for everyone</title>
 </head>
+
 <body>
  <div id="map"></div>
-</body>
-</html>
 
 <form name="MyForm">
 <div id="ctrl_shadow"></div>
@@ -42,21 +47,22 @@ N&E
     <div class="menu_innerbase">
         <input type="text" id="address" />
         <input type="button" id="address_button" value="search" />
-        <input type="checkbox" id="cb1" onClick="checkbox1clicked()">marker 1
-        <input type="checkbox" id="cb2" onclick="checkbox2clicked()">marker 2
+    <div class="menu_title">Select markers</div>
+        <input type="checkbox" id="cb1" onClick="checkbox1clicked()" checked>marker 1<br/>
+        <input type="checkbox" id="cb2" onclick="checkbox2clicked()" checked>marker 2<br/>
+        <input type="checkbox" id="cb3" onclick="checkbox3clicked()" checked>marker 3<br/>
     </div>
    
     <div id="INFO"></div>
 </div>
-
-
+<form id="map_type">
+    <div class="menu_title">Map types</div>
+	<input type="radio" name="radio_map_type" value="map" onClick="radio_map_clicked()"/>Map<br/>
+	<input type="radio" name="radio_map_type" value="earth" onClick="radio_earth_clicked()"/>Earth
+</form>
 
 
  
-<!-- JavaScript外部ファイル -->
 
-<script src="./js/lib.js" type="text/javascript"></script>
-<script src="./js/flickr.js" type="text/javascript"></script>
-<script src="./js/template.js" type="text/javascript"></script>
-
-
+</body>
+</html>

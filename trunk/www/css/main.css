@@ -78,6 +78,14 @@ div#menu_base {
 	left: 600px;
 	background-color: white;
 }
+form#map_type {
+	width: 204px;
+	height: 620px;
+	position: absolute;
+	top: 200px;
+	left: 600px;
+	background-color: white;
+}
 
 div.menu_title {
 	background-color: #404040;
