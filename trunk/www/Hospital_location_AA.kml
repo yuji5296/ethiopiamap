@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Hospital_location_AA</name>
+	<Style id="iconStyle0">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1.0</scale>
+		</LabelStyle>
+		<IconStyle>
+			<color>ffff00ff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Army Hospital</name>
+		<description><![CDATA[Army Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04251205,38.78209869&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.78209869,9.04251205</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Menelik Ⅱ Hospital</name>
+		<description><![CDATA[Menelik Ⅱ Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03840433,38.77545426&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77545426,9.03840433</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Nazrawi Hospital</name>
+		<description><![CDATA[Nazrawi Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03796105,38.76043080&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76043080,9.03796105</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Desta Hosputal</name>
+		<description><![CDATA[Ras Desta Hosputal<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04499441,38.74437833&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74437833,9.04499441</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tibebe Hospital</name>
+		<description><![CDATA[Tibebe Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04047296,38.74358452&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74358452,9.04047296</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Paulos Hospital</name>
+		<description><![CDATA[Paulos Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04753587,38.72826706&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72826706,9.04753587</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Amanuel Hospital</name>
+		<description><![CDATA[Amanuel Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.02841579,38.72265163&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72265163,9.02841579</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yekatit Hospital</name>
+		<description><![CDATA[Yekatit Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04338579,38.76016688&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76016688,9.04338579</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis MC Hospital</name>
+		<description><![CDATA[Addis MC Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03653126,38.76785982&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76785982,9.03653126</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Zewditu Hospital</name>
+		<description><![CDATA[Zewditu Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01874800,38.75620754&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75620754,9.01874800</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Black Lion Hospital</name>
+		<description><![CDATA[Black Lion Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.02049566,38.74980184&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74980184,9.02049566</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fistula Hospital</name>
+		<description><![CDATA[Fistula Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00694604,38.71501218&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.71501218,9.00694604</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Armed Forces Hospital</name>
+		<description><![CDATA[Armed Forces Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01208725,38.72385571&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72385571,9.01208725</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dj. Balcha Hospital</name>
+		<description><![CDATA[Dj. Balcha Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01168988,38.73796045&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73796045,9.01168988</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Police Hospital</name>
+		<description><![CDATA[Police Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01139554,38.73983946&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73983946,9.01139554</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Betezata Hospital</name>
+		<description><![CDATA[Betezata Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01240121,38.75471288&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75471288,9.01240121</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Betsega Hospital</name>
+		<description><![CDATA[Betsega Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00482799,38.77719384&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77719384,9.00482799</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Gebriel Hospital</name>
+		<description><![CDATA[St. Gebriel Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01068421,38.78857158&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.78857158,9.01068421</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Myong Song Korean Hospital</name>
+		<description><![CDATA[Myong Song Korean Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99866517,38.80849026&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.80849026,8.99866517</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hayat Med. College and Hospital</name>
+		<description><![CDATA[Hayat Med. College and Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99421936,38.79473325&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.79473325,8.99421936</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bras Hospital</name>
+		<description><![CDATA[Bras Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99078535,38.79351312&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.79351312,8.99078535</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tezena Hospital</name>
+		<description><![CDATA[Tezena Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99535381,38.71533308&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.71533308,8.99535381</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Alert Centre Hospital</name>
+		<description><![CDATA[Alert Centre Hospital<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hospital</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98597160,38.70920191&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70920191,8.98597160</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

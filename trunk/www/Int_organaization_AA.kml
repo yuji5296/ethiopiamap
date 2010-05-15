@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Int_organaization_AA</name>
+	<Style id="iconStyle0">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1.0</scale>
+		</LabelStyle>
+		<IconStyle>
+			<color>ffffff00</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>UNICEF</name>
+		<description><![CDATA[UNICEF<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />国連児童基金<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01550216,38.76940467&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76940467,9.01550216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Econnomic Commission for Africa</name>
+		<description><![CDATA[Econnomic Commission for Africa<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />アフリカ経済委員会<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01455006,38.76483100&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76483100,9.01455006</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>World Food Programme</name>
+		<description><![CDATA[World Food Programme<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />世界食料計画<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01729755,38.76623828&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76623828,9.01729755</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>African Union Office</name>
+		<description><![CDATA[African Union Office<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />アフリカ連合事務所<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99994215,38.74104252&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74104252,8.99994215</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>UNICEF Transit Warehouse</name>
+		<description><![CDATA[UNICEF Transit Warehouse<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />国連児童基金　保税倉庫<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99042116,38.76177287&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76177287,8.99042116</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>EU Delegation Office</name>
+		<description><![CDATA[EU Delegation Office<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />EU代表派遣事務所<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00124788,38.77909326&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77909326,9.00124788</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>UNHCR</name>
+		<description><![CDATA[UNHCR<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />国連難民高等弁務官事務所<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99289662,38.78331511&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.78331511,8.99289662</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>UN Mission in Ethiopia &amp; Eritrea</name>
+		<description><![CDATA[UN Mission in Ethiopia & Eritrea<br />2009/5/17<br />Tatsuo Nakajima<br /><b>International Organazation</b><br />国連エチオピア & エリトリア代表団事務所<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98688479,38.73803852&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73803852,8.98688479</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
