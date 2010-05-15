@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Sightseeing_location_AA</name>
+	<Style id="iconStyle0">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1.0</scale>
+		</LabelStyle>
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="iconStyle1">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1.0</scale>
+		</LabelStyle>
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="iconStyle2">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1.0</scale>
+		</LabelStyle>
+		<IconStyle>
+			<color>ffff0080</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Sheik Ojele Beyt</name>
+		<description><![CDATA[Sheik Ojele Beyt<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06128879,38.72626010&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72626010,9.06128879</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Rufael</name>
+		<description><![CDATA[Kidus Rufael<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05758883,38.72791341&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72791341,9.05758883</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Assembly Hall</name>
+		<description><![CDATA[Assembly Hall<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05592698,38.76397432&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76397432,9.05592698</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Kasa Hailu Res</name>
+		<description><![CDATA[Ras Kasa Hailu Res<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06382859,38.76834155&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76834155,9.06382859</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Genete lyeeus</name>
+		<description><![CDATA[Genete lyeeus<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06483197,38.77196012&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77196012,9.06483197</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kldane Mihiret</name>
+		<description><![CDATA[Kldane Mihiret<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03830514,38.77498599&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77498599,9.03830514</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jan Meda</name>
+		<description><![CDATA[Jan Meda<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04372966,38.76865350&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76865350,9.04372966</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tafari Mekonen school</name>
+		<description><![CDATA[Tafari Mekonen school<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05134907,38.76515971&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76515971,9.05134907</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mekane lyesus</name>
+		<description><![CDATA[Mekane lyesus<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03858734,38.76207145&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76207145,9.03858734</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Mekonen Genet Leul Palace</name>
+		<description><![CDATA[Ras Mekonen Genet Leul Palace<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04598726,38.75920155&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75920155,9.04598726</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis Ababa Restaurant</name>
+		<description><![CDATA[Addis Ababa Restaurant<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04084494,38.75268189&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75268189,9.04084494</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Modern Art Museum</name>
+		<description><![CDATA[Modern Art Museum<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Gallery</b><br />美術館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04906011,38.76244578&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76244578,9.04906011</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>? Addis Ababa University Museum</name>
+		<description><![CDATA[? Addis Ababa University Museum<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Museum</b><br />博物館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04648895,38.75948230&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75948230,9.04648895</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>National museum</name>
+		<description><![CDATA[National museum<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Museum</b><br />博物館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03905767,38.76172831&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76172831,9.03905767</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hager Fikir Theatre</name>
+		<description><![CDATA[Hager Fikir Theatre<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Theatre</b><br />映画館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03814836,38.75455356&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75455356,9.03814836</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Medhanealem School</name>
+		<description><![CDATA[Medhanealem School<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05153720,38.72307825&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72307825,9.05153720</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abebe Bikila Stadium</name>
+		<description><![CDATA[Abebe Bikila Stadium<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Sports</b><br />屋外競技場<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04313390,38.72382692&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72382692,9.04313390</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Nadew Aba Welo</name>
+		<description><![CDATA[Ras Nadew Aba Welo<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02514533,38.75329441&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75329441,9.02514533</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Menelik Ⅱ Palace Gibi</name>
+		<description><![CDATA[Menelik Ⅱ Palace Gibi<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02420015,38.76306699&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76306699,9.02420015</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Estifanos Church</name>
+		<description><![CDATA[St. Estifanos Church<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01242915,38.76376738&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76376738,9.01242915</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mengasha Geneme Res</name>
+		<description><![CDATA[Mengasha Geneme Res<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02166572,38.77318064&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77318064,9.02166572</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kegnaz</name>
+		<description><![CDATA[Kegnaz<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02025771,38.77250826&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77250826,9.02025771</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Taka Negest Baata Church</name>
+		<description><![CDATA[Taka Negest Baata Church<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02524727,38.76475735&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76475735,9.02524727</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Gebriel</name>
+		<description><![CDATA[St. Gebriel<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02386779,38.76635847&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76635847,9.02386779</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fitawrari Atnaf Sagad</name>
+		<description><![CDATA[Fitawrari Atnaf Sagad<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01932062,38.77098395&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77098395,9.01932062</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Saint George Art Gallery</name>
+		<description><![CDATA[Saint George Art Gallery<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Gallery</b><br />美術館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02044464,38.75858157&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75858157,9.02044464</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Postal Museum</name>
+		<description><![CDATA[Postal Museum<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Museum</b><br />博物館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02018918,38.75268536&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75268536,9.02018918</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ambassador Theatre</name>
+		<description><![CDATA[Ambassador Theatre<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Theatre</b><br />映画館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01829879,38.75499810&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75499810,9.01829879</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sevastopol</name>
+		<description><![CDATA[Sevastopol<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02693330,38.75166877&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75166877,9.02693330</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tigilachin</name>
+		<description><![CDATA[Tigilachin<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02029137,38.75156712&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75156712,9.02029137</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ethiopian National Theatre</name>
+		<description><![CDATA[Ethiopian National Theatre<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Theatre</b><br />映画館・劇場<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01653612,38.75220248&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75220248,9.01653612</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Seitan Bet Mega Amphi Theatre</name>
+		<description><![CDATA[Seitan Bet Mega Amphi Theatre<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Theatre</b><br />映画館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02726540,38.75258370&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75258370,9.02726540</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yaka Mikael</name>
+		<description><![CDATA[Yaka Mikael<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02626911,38.79921969&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.79921969,9.02626911</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Urael</name>
+		<description><![CDATA[Kidus Urael<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01053283,38.77599065&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77599065,9.01053283</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Kebede Mengasha</name>
+		<description><![CDATA[Ras Kebede Mengasha<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99740224,38.77314420&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77314420,8.99740224</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dejazmoch Ayolew Biru</name>
+		<description><![CDATA[Dejazmoch Ayolew Biru<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00039111,38.76854414&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76854414,9.00039111</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Biru W/Giorgis Res.</name>
+		<description><![CDATA[Ras Biru W/Giorgis Res.<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00956209,38.76231753&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76231753,9.00956209</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis Ababa Museum</name>
+		<description><![CDATA[Addis Ababa Museum<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Museum</b><br />博物館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00989418,38.76180924&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76180924,9.00989418</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>La Gare</name>
+		<description><![CDATA[La Gare<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00938327,38.75326990&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75326990,9.00938327</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Kirkos</name>
+		<description><![CDATA[Kidus Kirkos<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00429963,38.75403234&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75403234,9.00429963</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lion of Juda</name>
+		<description><![CDATA[Lion of Juda<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01124812,38.75311741&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75311741,9.01124812</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Fitawrani Agunafer Sebberu Res.</name>
+		<description><![CDATA[Fitawrani Agunafer Sebberu Res.<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99893499,38.75324449&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75324449,8.99893499</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lideta Mariam</name>
+		<description><![CDATA[Lideta Mariam<br />2009/5/16<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01040510,38.73659785&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73659785,9.01040510</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis Ababa Stadium</name>
+		<description><![CDATA[Addis Ababa Stadium<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Sports</b><br />屋外競技場<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01321515,38.75647215&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75647215,9.01321515</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Arat Kilo Okuma Gymnasium</name>
+		<description><![CDATA[Arat Kilo Okuma Gymnasium<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Sports</b><br />屋内競技場<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03210379,38.76623852&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76623852,9.03210379</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yekatit Monument</name>
+		<description><![CDATA[Yekatit Monument<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04420233,38.76114846&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76114846,9.04420233</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Karl Marx Park</name>
+		<description><![CDATA[Karl Marx Park<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04688465,38.76203797&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76203797,9.04688465</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Menelik Ⅱ</name>
+		<description><![CDATA[Menelik Ⅱ<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03585532,38.75243609&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75243609,9.03585532</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abune Petros</name>
+		<description><![CDATA[Abune Petros<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03537655,38.74959988&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74959988,9.03537655</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Theatre and Cultural  Centre</name>
+		<description><![CDATA[Theatre and Cultural  Centre<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Theatre</b><br />映画館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03526774,38.75152677&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75152677,9.03526774</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Empire Theatre</name>
+		<description><![CDATA[Empire Theatre<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Theatre</b><br />映画館<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03337442,38.75449289&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75449289,9.03337442</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Victory Mounument</name>
+		<description><![CDATA[Victory Mounument<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03309151,38.76332629&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76332629,9.03309151</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Taitu Hotel</name>
+		<description><![CDATA[Taitu Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03048143,38.75426270&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75426270,9.03048143</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Pushikin Monument</name>
+		<description><![CDATA[Pushikin Monument<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Monument</b><br />記念碑<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99560820,38.73777438&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73777438,8.99560820</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tsion Hotel</name>
+		<description><![CDATA[Tsion Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06570497,38.73220642&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.73220642,9.06570497</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Semien Hotel</name>
+		<description><![CDATA[Semien Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04428275,38.74962153&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74962153,9.04428275</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Jerusalem Hotel</name>
+		<description><![CDATA[Jerusalem Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04594212,38.74217918&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74217918,9.04594212</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Motora Hotel</name>
+		<description><![CDATA[Motora Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04632296,38.72829580&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.72829580,9.04632296</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tsigeshet Hotel</name>
+		<description><![CDATA[Tsigeshet Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05261225,38.71926754&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.71926754,9.05261225</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sofitel Pension</name>
+		<description><![CDATA[Sofitel Pension<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04166584,38.72030677&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.72030677,9.04166584</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Metropol Hotel</name>
+		<description><![CDATA[Metropol Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02774343,38.73963524&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.73963524,9.02774343</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Extreme Hotel</name>
+		<description><![CDATA[Extreme Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02749861,38.74859313&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74859313,9.02749861</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Taitu Hotel</name>
+		<description><![CDATA[Taitu Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03073574,38.75397869&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75397869,9.03073574</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tourist Hotel</name>
+		<description><![CDATA[Tourist Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03266714,38.76209763&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76209763,9.03266714</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Amba Hotel</name>
+		<description><![CDATA[Ras Amba Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03179665,38.77089314&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77089314,9.03179665</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis View Hotel</name>
+		<description><![CDATA[Addis View Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03190547,38.77162384&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77162384,9.03190547</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bel Air Hotel</name>
+		<description><![CDATA[Bel Air Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03149742,38.77476317&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77476317,9.03149742</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ararat Hotel</name>
+		<description><![CDATA[Ararat Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02573586,38.81838349&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.81838349,9.02573586</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gedera Hotel</name>
+		<description><![CDATA[Gedera Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03472368,38.82301670&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.82301670,9.03472368</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Andenet Hotel</name>
+		<description><![CDATA[Andenet Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01838022,38.79556387&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.79556387,9.01838022</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Central Shewa Hotel</name>
+		<description><![CDATA[Central Shewa Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01768383,38.79296582&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.79296582,9.01768383</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Awraris Hotel</name>
+		<description><![CDATA[Awraris Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01061110,38.78746659&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78746659,9.01061110</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Debre Damo Hotel</name>
+		<description><![CDATA[Debre Damo Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01574699,38.78486853&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78486853,9.01574699</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Axum Hotel</name>
+		<description><![CDATA[Axum Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01548584,38.78404581&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78404581,9.01548584</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Holiday Hotel</name>
+		<description><![CDATA[Holiday Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01483297,38.78118795&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78118795,9.01483297</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Nigist Saba Hotel</name>
+		<description><![CDATA[Nigist Saba Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01359252,38.77852494&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77852494,9.01359252</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Plaza Hotel</name>
+		<description><![CDATA[Plaza Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01182978,38.77778882&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77778882,9.01182978</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>De Leopol Hotel</name>
+		<description><![CDATA[De Leopol Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00949034,38.77219217&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77219217,9.00949034</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yordonos Hotel</name>
+		<description><![CDATA[Yordonos Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01093209,38.77010831&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77010831,9.01093209</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wanza Hotel</name>
+		<description><![CDATA[Wanza Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00701488,38.76851159&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76851159,9.00701488</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>National Hotel</name>
+		<description><![CDATA[National Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01310831,38.76231413&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76231413,9.01310831</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ghion Hotel</name>
+		<description><![CDATA[Ghion Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01414202,38.76020321&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76020321,9.01414202</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hilton Hotel</name>
+		<description><![CDATA[Hilton Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01933776,38.76426268&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76426268,9.01933776</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gedera Hotel No.3</name>
+		<description><![CDATA[Gedera Hotel No.3<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02407105,38.77589982&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77589982,9.02407105</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sheraton Addis Ababa</name>
+		<description><![CDATA[Sheraton Addis Ababa<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02132357,38.75995964&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75995964,9.02132357</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Filwuha Hotel</name>
+		<description><![CDATA[Filwuha Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01838566,38.75817348&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75817348,9.01838566</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Finfine Adarash Hotel</name>
+		<description><![CDATA[Finfine Adarash Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01724314,38.75895831&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75895831,9.01724314</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Hotel</name>
+		<description><![CDATA[Ras Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01550216,38.75211134&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75211134,9.01550216</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Genet Hotel</name>
+		<description><![CDATA[Genet Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00494747,38.74748355&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74748355,9.00494747</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hotel D&apos;Afrique</name>
+		<description><![CDATA[Hotel D'Afrique<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01531174,38.74507493&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74507493,9.01531174</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wabe Shebele Hotel</name>
+		<description><![CDATA[Wabe Shebele Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01250985,38.74661753&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74661753,9.01250985</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abnet Hotel</name>
+		<description><![CDATA[Abnet Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01873930,38.73295065&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.73295065,9.01873930</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>King&apos;s Hotel</name>
+		<description><![CDATA[King's Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99855480,38.73998706&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.73998706,8.99855480</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hotel de France</name>
+		<description><![CDATA[Hotel de France<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99792914,38.74410066&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74410066,8.99792914</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Global Hotel</name>
+		<description><![CDATA[Global Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99409354,38.76025734&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76025734,8.99409354</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hawi Hotel</name>
+		<description><![CDATA[Hawi Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99202613,38.75841704&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75841704,8.99202613</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Concord Hotel</name>
+		<description><![CDATA[Concord Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98990431,38.75874180&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75874180,8.98990431</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Omedla Hotel</name>
+		<description><![CDATA[Omedla Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98538864,38.75898537&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.75898537,8.98538864</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Maskel Flower Hotel</name>
+		<description><![CDATA[Maskel Flower Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98840815,38.76358610&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76358610,8.98840815</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Adot Tino Hotel</name>
+		<description><![CDATA[Adot Tino Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99163876,38.76656088&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76656088,8.99163876</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ibex Hotel</name>
+		<description><![CDATA[Ibex Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98976829,38.77102846&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77102846,8.98976829</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Damu Hotel</name>
+		<description><![CDATA[Damu Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99888124,38.77173210&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.77173210,8.99888124</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Desalegn Hotel</name>
+		<description><![CDATA[Desalegn Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00029578,38.78004047&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78004047,9.00029578</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Atlas Hotel</name>
+		<description><![CDATA[Atlas Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00398857,38.78061556&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78061556,9.00398857</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Meridian Hotel</name>
+		<description><![CDATA[Meridian Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99280625,38.78020168&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78020168,8.99280625</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>BeerGarden Inn</name>
+		<description><![CDATA[BeerGarden Inn<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99564410,38.78607555&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78607555,8.99564410</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mariott Hotel</name>
+		<description><![CDATA[Mariott Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98638970,38.78828931&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78828931,8.98638970</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Airport Hotel</name>
+		<description><![CDATA[Airport Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99338627,38.79454630&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.79454630,8.99338627</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gota Hotel</name>
+		<description><![CDATA[Gota Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98012217,38.74882046&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.74882046,8.98012217</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yilma Hotel</name>
+		<description><![CDATA[Yilma Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98334298,38.73052580&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.73052580,8.98334298</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Dama Hotel</name>
+		<description><![CDATA[Dama Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.95279965,38.76093391&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.76093391,8.95279965</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bole Dolphin Hotel</name>
+		<description><![CDATA[Bole Dolphin Hotel<br />2009/5/17<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98669437,38.80799126&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.80799126,8.98669437</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Riviero Hotel</name>
+		<description><![CDATA[Riviero Hotel<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.93803037,38.73613513&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.73613513,8.93803037</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>K/Z Hotel</name>
+		<description><![CDATA[K/Z Hotel<br />2009/5/21<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99210797,38.78184628&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.78184628,8.99210797</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mekane lyesus</name>
+		<description><![CDATA[Mekane lyesus<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00138479,38.77572040&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77572040,9.00138479</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Ras Mekonen Genet Leul Palace</name>
+		<description><![CDATA[Ras Mekonen Genet Leul Palace<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98662828,38.80258992&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.80258992,8.98662828</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis Ababa Restaurant</name>
+		<description><![CDATA[Addis Ababa Restaurant<br />2009/5/15<br />Tatsuo Nakajima<br /><b>Architectual heritage sites</b><br />文化遺産<br /><br /><a href="http://maps.google.co.jp/maps?q=8.95593432,38.75255153&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75255153,8.95593432</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis Ababa Golf Club</name>
+		<description><![CDATA[Addis Ababa Golf Club<br />2009/5/26<br />Tatsuo Nakajima<br /><b>Golf club</b><br />ゴルフ場<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00468868,38.72277900&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle1</styleUrl>
+		<Point>
+			<coordinates>38.72277900,9.00468868</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Imperial Hotel</name>
+		<description><![CDATA[Imperial Hotel<br />2009/5/27<br />Tatsuo Nakajima<br /><b>Hotel</b><br />ホテル<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00248323,38.80091915&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle2</styleUrl>
+		<Point>
+			<coordinates>38.80091915,9.00248323</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

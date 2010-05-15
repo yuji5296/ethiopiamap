@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1">
+<Document>
+	<name>Religious_inst_location_AA</name>
+	<Style id="iconStyle0">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1.0</scale>
+		</LabelStyle>
+		<IconStyle>
+			<color>ff12afc0</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pal2/icon18.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>Asko Gebriel</name>
+		<description><![CDATA[Asko Gebriel<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06839951,38.69189909&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.69189909,9.06839951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Catholic Church</name>
+		<description><![CDATA[Catholic Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06458732,38.68925308&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.68925308,9.06458732</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Francis Friary &amp; Church</name>
+		<description><![CDATA[St. Francis Friary & Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06264280,38.69823188&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.69823188,9.06264280</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abune H/Maryam</name>
+		<description><![CDATA[Abune H/Maryam<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.07244812,38.70630516&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70630516,9.07244812</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Catholic Church</name>
+		<description><![CDATA[Catholic Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05755396,38.71450779&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.71450779,9.05755396</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Greek Church</name>
+		<description><![CDATA[Greek Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05592861,38.71427259&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.71427259,9.05592861</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Awelya Mosque</name>
+		<description><![CDATA[Awelya Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06180944,38.70956857&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70956857,9.06180944</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Egziabher Ab</name>
+		<description><![CDATA[Egziabher Ab<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06588760,38.73902750&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73902750,9.06588760</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Mary</name>
+		<description><![CDATA[St. Mary<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05844052,38.74246732&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74246732,9.05844052</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidist Selasi Church</name>
+		<description><![CDATA[Kidist Selasi Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.07040904,38.76107760&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76107760,9.07040904</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Intoto Mekane Iyesus Church</name>
+		<description><![CDATA[Intoto Mekane Iyesus Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06180944,38.76198900&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76198900,9.06180944</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Mikael Church</name>
+		<description><![CDATA[St. Mikael Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06452821,38.76813363&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76813363,9.06452821</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Genete Iyesus</name>
+		<description><![CDATA[Genete Iyesus<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06532612,38.77207325&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77207325,9.06532612</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Giyorgis</name>
+		<description><![CDATA[Kidus Giyorgis<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06585805,38.78350990&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.78350990,9.06585805</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Eyakem We Hanna</name>
+		<description><![CDATA[Eyakem We Hanna<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04336905,38.83152031&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.83152031,9.04336905</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>K/Mihret</name>
+		<description><![CDATA[K/Mihret<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03630615,38.81981906&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.81981906,9.03630615</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lideta Maryam</name>
+		<description><![CDATA[Lideta Maryam<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04475799,38.78797872&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.78797872,9.04475799</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abo</name>
+		<description><![CDATA[Abo<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05057972,38.78039349&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.78039349,9.05057972</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sedetegnaw Medanialem Church</name>
+		<description><![CDATA[Sedetegnaw Medanialem Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05049106,38.76257701&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76257701,9.05049106</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>German Church</name>
+		<description><![CDATA[German Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04431471,38.76525242&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76525242,9.04431471</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mekane Iyesus</name>
+		<description><![CDATA[Mekane Iyesus<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03961596,38.76057780&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76057780,9.03961596</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Arada Giyorgis</name>
+		<description><![CDATA[Arada Giyorgis<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03663122,38.75149316&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75149316,9.03663122</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Yohanis</name>
+		<description><![CDATA[Kidus Yohanis<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04212787,38.74546613&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74546613,9.04212787</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidist Maryam</name>
+		<description><![CDATA[Kidist Maryam<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04127087,38.74561313&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74561313,9.04127087</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidua Markos</name>
+		<description><![CDATA[Kidua Markos<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04502396,38.75960759&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75960759,9.04502396</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>American Mission church</name>
+		<description><![CDATA[American Mission church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04783139,38.73482328&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73482328,9.04783139</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Addis Mikael</name>
+		<description><![CDATA[Addis Mikael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04103445,38.73282408&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73282408,9.04103445</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abubeker Mosque</name>
+		<description><![CDATA[Abubeker Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04263025,38.72753205&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72753205,9.04263025</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Altet Mosque</name>
+		<description><![CDATA[Altet Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04198011,38.73497029&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73497029,9.04198011</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Belehadin Monsque</name>
+		<description><![CDATA[Belehadin Monsque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03657211,38.73023686&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73023686,9.03657211</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Anwar Mosque</name>
+		<description><![CDATA[Anwar Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03323275,38.74061511&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74061511,9.03323275</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Hashin Mosque</name>
+		<description><![CDATA[Hashin Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03559690,38.73144227&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73144227,9.03559690</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bilal Mosque</name>
+		<description><![CDATA[Bilal Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03577421,38.72188723&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72188723,9.03577421</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Raguel</name>
+		<description><![CDATA[Kidus Raguel<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03280720,38.73958023&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73958023,9.03280720</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Petros &amp; Paulos</name>
+		<description><![CDATA[Petros & Paulos<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05362356,38.71483120&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.71483120,9.05362356</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Philipos</name>
+		<description><![CDATA[Kidus Philipos<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04200966,38.70274774&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70274774,9.04200966</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Giyorgis</name>
+		<description><![CDATA[Kidus Giyorgis<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04602872,38.69425110&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.69425110,9.04602872</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kolfe</name>
+		<description><![CDATA[Kolfe<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03473989,38.70457055&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70457055,9.03473989</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Paulos</name>
+		<description><![CDATA[Kidus Paulos<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02924324,38.70321814&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70321814,9.02924324</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Emanuel Church</name>
+		<description><![CDATA[St. Emanuel Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02717461,38.72138742&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72138742,9.02717461</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gedam Iysus</name>
+		<description><![CDATA[Gedam Iysus<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02108692,38.71809461&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.71809461,9.02108692</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tekle Haimanot</name>
+		<description><![CDATA[Tekle Haimanot<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02726326,38.74326112&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74326112,9.02726326</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Goia Mikael</name>
+		<description><![CDATA[Goia Mikael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02566746,38.74893535&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74893535,9.02566746</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Nativity Cathollc Cathedral</name>
+		<description><![CDATA[Nativity Cathollc Cathedral<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03066173,38.74840614&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74840614,9.03066173</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Benin Mosque</name>
+		<description><![CDATA[Benin Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03231664,38.74843554&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74843554,9.03231664</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Husein Mosque</name>
+		<description><![CDATA[Husein Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02888862,38.74117371&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74117371,9.02888862</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Rahma Mosque</name>
+		<description><![CDATA[Rahma Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02829758,38.73899810&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73899810,9.02829758</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>English Church</name>
+		<description><![CDATA[English Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03355782,38.76907444&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76907444,9.03355782</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidist Silase Cathedral (Holy Trinity)</name>
+		<description><![CDATA[Kidist Silase Cathedral (Holy Trinity)<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03080949,38.76639902&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76639902,9.03080949</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Be-Ale Wold</name>
+		<description><![CDATA[Be-Ale Wold<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03007069,38.76710463&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76710463,9.03007069</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Taka Negest Baata Church</name>
+		<description><![CDATA[Taka Negest Baata Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02566746,38.76469382&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76469382,9.02566746</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Gebriel</name>
+		<description><![CDATA[St. Gebriel<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02433762,38.76622262&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76622262,9.02433762</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidane Mihiret</name>
+		<description><![CDATA[Kidane Mihiret<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03577421,38.77651267&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77651267,9.03577421</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>kebena Medhane Alem</name>
+		<description><![CDATA[kebena Medhane Alem<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03264171,38.77762987&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77762987,9.03264171</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Wele Mosque</name>
+		<description><![CDATA[Wele Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02413076,38.76989764&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76989764,9.02413076</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yaka Mikael</name>
+		<description><![CDATA[Yaka Mikael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02679043,38.79938597&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.79938597,9.02679043</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Medhane Alem</name>
+		<description><![CDATA[Medhane Alem<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03414886,38.81617344&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.81617344,9.03414886</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>God&apos;s army Int. Spiritual Min. Church</name>
+		<description><![CDATA[God's army Int. Spiritual Min. Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03482855,38.83516593&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.83516593,9.03482855</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kotobe Mikael</name>
+		<description><![CDATA[Kotobe Mikael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02318510,38.84045795&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.84045795,9.02318510</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Se-alite Mihret</name>
+		<description><![CDATA[Se-alite Mihret<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01934335,38.82843330&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.82843330,9.01934335</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Maserata Christus Protestant Church</name>
+		<description><![CDATA[Maserata Christus Protestant Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01352163,38.82328828&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.82328828,9.01352163</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bole Egziabher Ab</name>
+		<description><![CDATA[Bole Egziabher Ab<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01251686,38.81117542&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.81117542,9.01251686</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Urael</name>
+		<description><![CDATA[Kidus Urael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01053689,38.77554246&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77554246,9.01053689</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Yehiwot Berhan</name>
+		<description><![CDATA[Yehiwot Berhan<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01824993,38.77080904&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77080904,9.01824993</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Estifanos Church</name>
+		<description><![CDATA[St. Estifanos Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01257597,38.76337081&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76337081,9.01257597</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Seventh Day Adventist</name>
+		<description><![CDATA[Seventh Day Adventist<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01647682,38.75584438&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75584438,9.01647682</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Catholic Church</name>
+		<description><![CDATA[Catholic Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01331476,38.75234576&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75234576,9.01331476</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Kirkos</name>
+		<description><![CDATA[Kidus Kirkos<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00456740,38.75358057&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75358057,9.00456740</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lideta Mekane Iyesus</name>
+		<description><![CDATA[Lideta Mekane Iyesus<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01559026,38.74170291&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74170291,9.01559026</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Great Reformation Int. Church</name>
+		<description><![CDATA[Great Reformation Int. Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01591533,38.71785941&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.71785941,9.01591533</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>AA Mulu Wongel&apos;s Believers Head Church</name>
+		<description><![CDATA[AA Mulu Wongel's Believers Head Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01084423,38.72005854&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72005854,9.01084423</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>keranyo Medhane Alem</name>
+		<description><![CDATA[keranyo Medhane Alem<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01512334,38.70688728&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70688728,9.01512334</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Muti Kidus Giyourgis</name>
+		<description><![CDATA[Muti Kidus Giyourgis<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00261698,38.70045453&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70045453,9.00261698</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abene Aregwai</name>
+		<description><![CDATA[Abene Aregwai<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98376286,38.70953917&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.70953917,8.98376286</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abo</name>
+		<description><![CDATA[Abo<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98207840,38.72823766&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72823766,8.98207840</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bisrate Gebriel</name>
+		<description><![CDATA[Bisrate Gebriel<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99159412,38.72620905&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72620905,8.99159412</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Yared</name>
+		<description><![CDATA[Kidus Yared<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98707267,38.76154800&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76154800,8.98707267</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abyot Kire</name>
+		<description><![CDATA[Abyot Kire<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98925951,38.75252216&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75252216,8.98925951</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gofa Gebriel</name>
+		<description><![CDATA[Gofa Gebriel<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97717279,38.75293376&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75293376,8.97717279</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gofa K/ Mihret</name>
+		<description><![CDATA[Gofa K/ Mihret<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97551788,38.73717529&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73717529,8.97551788</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Abadir Mosque</name>
+		<description><![CDATA[Abadir Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98538822,38.73811610&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73811610,8.98538822</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bole Michael</name>
+		<description><![CDATA[Bole Michael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98098498,38.76919204&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76919204,8.98098498</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Gerji Kidus Giyorgis</name>
+		<description><![CDATA[Gerji Kidus Giyorgis<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99251022,38.81834905&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.81834905,8.99251022</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Gebriel</name>
+		<description><![CDATA[Kidus Gebriel<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00022327,38.83052071&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.83052071,9.00022327</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Mary Church</name>
+		<description><![CDATA[St. Mary Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00001641,38.80153218&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.80153218,9.00001641</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Mekane Yesus</name>
+		<description><![CDATA[Mekane Yesus<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99803643,38.79912137&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.79912137,8.99803643</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Bole Medhane Alem</name>
+		<description><![CDATA[Bole Medhane Alem<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99638152,38.78938993&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.78938993,8.99638152</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Mikael</name>
+		<description><![CDATA[Kidus Mikael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99632242,38.74379032&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74379032,8.99632242</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Eth Guenet Church</name>
+		<description><![CDATA[Eth Guenet Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99410603,38.74602473&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74602473,8.99410603</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Sarbetoch Full Gospel Believers Church</name>
+		<description><![CDATA[Sarbetoch Full Gospel Believers Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99261661,38.74292008&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74292008,8.99261661</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Yosef</name>
+		<description><![CDATA[Kidus Yosef<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97016898,38.76739863&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76739863,8.97016898</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Mikael</name>
+		<description><![CDATA[Kidus Mikael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97031674,38.76563462&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.76563462,8.97031674</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>St. Mary&apos;s Church</name>
+		<description><![CDATA[St. Mary's Church<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.95574766,38.77498386&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77498386,8.95574766</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Medhane Alem Chruch</name>
+		<description><![CDATA[Medhane Alem Chruch<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94770954,38.77748287&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77748287,8.94770954</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Teige Maryam</name>
+		<description><![CDATA[Teige Maryam<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.95861419,38.75240456&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75240456,8.95861419</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lafto Mikael</name>
+		<description><![CDATA[Lafto Mikael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.95391544,38.74834734&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74834734,8.95391544</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Balewo and St. Abraham</name>
+		<description><![CDATA[Balewo and St. Abraham<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94419286,38.73061907&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73061907,8.94419286</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Saris Abo</name>
+		<description><![CDATA[Saris Abo<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94581822,38.77036804&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.77036804,8.94581822</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidst Hanna Mariam</name>
+		<description><![CDATA[Kidst Hanna Mariam<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=8.92690500,38.74311412&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.74311412,8.92690500</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kechane Medhane Alem</name>
+		<description><![CDATA[Kechane Medhane Alem<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05510116,38.75305725&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75305725,9.05510116</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Kidus Rufael</name>
+		<description><![CDATA[Kidus Rufael<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05789086,38.72758497&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.72758497,9.05789086</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Tofic Mosque</name>
+		<description><![CDATA[Tofic Mosque<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Mosque</b><br />イスラム教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01972914,38.75733617&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.75733617,9.01972914</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Lideta Mariam</name>
+		<description><![CDATA[Lideta Mariam<br />2009/5/19<br />Tatsuo Nakajima<br /><b>Church</b><br />キリスト教<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01068421,38.73695994&hl=ja">Googleマップ</a>]]></description>
+		<styleUrl>#iconStyle0</styleUrl>
+		<Point>
+			<coordinates>38.73695994,9.01068421</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
