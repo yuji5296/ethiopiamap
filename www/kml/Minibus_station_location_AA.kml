@@ -23,7 +23,7 @@
 	</Style>
 	<Placemark>
 		<name>Wingate</name>
-		<description><![CDATA[Wingate<br />2009/05/20<br />Tatsuo Nakajima<br /><b>minibus station</b><br />ウインゲート<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05628106,38.71344516&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Wingate<br />2009/05/20<br />Tatsuo Nakajima<br /><b>minibus station</b><br />ウインゲート<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05628106,38.71344516&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71344516,9.05628106,0</coordinates>
@@ -31,7 +31,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kolfe</name>
-		<description><![CDATA[Kolfe<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03364399,38.71448267&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kolfe<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03364399,38.71448267&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71448267,9.03364399,0</coordinates>
@@ -39,7 +39,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Holland</name>
-		<description><![CDATA[Holland<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01676432,38.71796531&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Holland<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01676432,38.71796531&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71796531,9.01676432,0</coordinates>
@@ -47,7 +47,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Tor Hailoch</name>
-		<description><![CDATA[Tor Hailoch<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01163391,38.72146986&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Tor Hailoch<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01163391,38.72146986&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72146986,9.011633910000001,0</coordinates>
@@ -55,7 +55,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Sost Kutir Mazoria</name>
-		<description><![CDATA[Sost Kutir Mazoria<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99287309,38.71694938&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Sost Kutir Mazoria<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99287309,38.71694938&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71694938,8.99287309,0</coordinates>
@@ -63,7 +63,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Aire Tena</name>
-		<description><![CDATA[Aire Tena<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98290996,38.69749874&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Aire Tena<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98290996,38.69749874&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.69749874,8.982909960000001,0</coordinates>
@@ -71,7 +71,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Abenet</name>
-		<description><![CDATA[Abenet<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01211275,38.72867977&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Abenet<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01211275,38.72867977&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72867977,9.01211275,0</coordinates>
@@ -79,7 +79,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Shegole</name>
-		<description><![CDATA[Shegole<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06555196,38.72097740&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Shegole<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06555196,38.72097740&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7209774,9.065551960000001,0</coordinates>
@@ -87,7 +87,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kidus Rufael</name>
-		<description><![CDATA[Kidus Rufael<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05876209,38.72747675&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kidus Rufael<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05876209,38.72747675&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72747675,9.05876209,0</coordinates>
@@ -95,7 +95,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Tsion Hotel</name>
-		<description><![CDATA[Tsion Hotel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06517193,38.73275269&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Tsion Hotel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06517193,38.73275269&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73275269,9.06517193,0</coordinates>
@@ -103,7 +103,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Dilber</name>
-		<description><![CDATA[Dilber<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.07335525,38.73795217&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Dilber<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.07335525,38.73795217&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73795217,9.073355250000001,0</coordinates>
@@ -111,7 +111,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Addisu Gebeya</name>
-		<description><![CDATA[Addisu Gebeya<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05920261,38.73773298&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Addisu Gebeya<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05920261,38.73773298&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73773298,9.05920261,0</coordinates>
@@ -119,7 +119,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Simien Hotel</name>
-		<description><![CDATA[Simien Hotel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04433931,38.74849896&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Simien Hotel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04433931,38.74849896&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74849896,9.04433931,0</coordinates>
@@ -127,7 +127,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza Georgis</name>
-		<description><![CDATA[Piazza Georgis<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03767105,38.75216918&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza Georgis<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03767105,38.75216918&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75216918,9.03767105,0</coordinates>
@@ -135,7 +135,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Abune Petros</name>
-		<description><![CDATA[Abune Petros<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03572953,38.75041462&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Abune Petros<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03572953,38.75041462&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75041462,9.035729529999999,0</coordinates>
@@ -143,7 +143,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza 02</name>
-		<description><![CDATA[Piazza 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03240129,38.75208762&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03240129,38.75208762&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75208762,9.032401289999999,0</coordinates>
@@ -151,7 +151,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza 01</name>
-		<description><![CDATA[Piazza 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03278639,38.75110889&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03278639,38.75110889&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75110889,9.03278639,0</coordinates>
@@ -159,7 +159,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza 04</name>
-		<description><![CDATA[Piazza 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03463081,38.75204684&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03463081,38.75204684&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75204684,9.03463081,0</coordinates>
@@ -167,7 +167,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza 03</name>
-		<description><![CDATA[Piazza 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03361739,38.75053797&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03361739,38.75053797&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75053797,9.03361739,0</coordinates>
@@ -175,7 +175,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza 04</name>
-		<description><![CDATA[Piazza 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03345525,38.75488107&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03345525,38.75488107&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75488107,9.033455249999999,0</coordinates>
@@ -183,7 +183,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo 01</name>
-		<description><![CDATA[Arat Kilo 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03353632,38.76158941&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03353632,38.76158941&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76158941,9.03353632,0</coordinates>
@@ -191,7 +191,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo 02</name>
-		<description><![CDATA[Arat Kilo 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03114466,38.76330218&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03114466,38.76330218&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76330218,9.031144660000001,0</coordinates>
@@ -199,7 +199,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo 03</name>
-		<description><![CDATA[Arat Kilo 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03404303,38.76301672&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03404303,38.76301672&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76301672,9.034043029999999,0</coordinates>
@@ -207,7 +207,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo 04</name>
-		<description><![CDATA[Arat Kilo 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03544154,38.76317984&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03544154,38.76317984&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76317984,9.035441540000001,0</coordinates>
@@ -215,7 +215,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo 05</name>
-		<description><![CDATA[Arat Kilo 05<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03223915,38.76468871&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo 05<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03223915,38.76468871&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76468871,9.032239150000001,0</coordinates>
@@ -223,7 +223,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Amist Kilo</name>
-		<description><![CDATA[Amist Kilo<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03771158,38.76267009&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Amist Kilo<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03771158,38.76267009&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76267009,9.03771158,0</coordinates>
@@ -231,7 +231,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Sidist Kilo</name>
-		<description><![CDATA[Sidist Kilo<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04377180,38.76122239&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Sidist Kilo<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04377180,38.76122239&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76122239,9.0437718,0</coordinates>
@@ -239,7 +239,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Siromeda</name>
-		<description><![CDATA[Siromeda<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06135934,38.76157718&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Siromeda<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06135934,38.76157718&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76157718,9.061359339999999,0</coordinates>
@@ -247,7 +247,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Ferenzei</name>
-		<description><![CDATA[Ferenzei<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05562716,38.77414463&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Ferenzei<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05562716,38.77414463&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77414463,9.05562716,0</coordinates>
@@ -255,7 +255,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Genete</name>
-		<description><![CDATA[Genete<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06462121,38.77139196&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Genete<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06462121,38.77139196&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77139196,9.06462121,0</coordinates>
@@ -263,7 +263,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Abo</name>
-		<description><![CDATA[Abo<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05142307,38.78049105&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Abo<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05142307,38.78049105&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78049105,9.05142307,0</coordinates>
@@ -271,7 +271,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kebena</name>
-		<description><![CDATA[Kebena<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03467134,38.77741214&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kebena<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03467134,38.77741214&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77741214,9.034671339999999,0</coordinates>
@@ -279,7 +279,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Shola</name>
-		<description><![CDATA[Shola<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02471962,38.79578363&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Shola<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02471962,38.79578363&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.79578363,9.024719620000001,0</coordinates>
@@ -287,7 +287,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Meganania 01</name>
-		<description><![CDATA[Meganania 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02015925,38.80247159&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Meganania 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02015925,38.80247159&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.80247159,9.020159250000001,0</coordinates>
@@ -295,7 +295,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Meganania 02</name>
-		<description><![CDATA[Meganania 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01807162,38.80149287&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Meganania 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01807162,38.80149287&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.80149287,9.018071620000001,0</coordinates>
@@ -303,7 +303,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Aware</name>
-		<description><![CDATA[Aware<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02692379,38.77534254&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Aware<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02692379,38.77534254&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77534254,9.02692379,0</coordinates>
@@ -311,7 +311,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kazanches</name>
-		<description><![CDATA[Kazanches<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01557356,38.77095867&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kazanches<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01557356,38.77095867&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77095867,9.01557356,0</coordinates>
@@ -319,7 +319,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Urael</name>
-		<description><![CDATA[Urael<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01101319,38.77480730&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Urael<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01101319,38.77480730&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7748073,9.01101319,0</coordinates>
@@ -327,7 +327,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Haya Hulet</name>
-		<description><![CDATA[Haya Hulet<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01575090,38.78719430&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Haya Hulet<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01575090,38.78719430&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7871943,9.015750900000001,0</coordinates>
@@ -335,7 +335,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Abiot 01</name>
-		<description><![CDATA[Abiot 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01126655,38.75964216&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Abiot 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01126655,38.75964216&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75964216,9.01126655,0</coordinates>
@@ -343,7 +343,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Abiot 02</name>
-		<description><![CDATA[Abiot 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01048115,38.76313396&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Abiot 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01048115,38.76313396&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76313396,9.01048115,0</coordinates>
@@ -351,7 +351,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Abiot 03</name>
-		<description><![CDATA[Abiot 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01098786,38.76356725&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Abiot 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01098786,38.76356725&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76356725,9.01098786,0</coordinates>
@@ -359,7 +359,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Stadium</name>
-		<description><![CDATA[Stadium<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01191007,38.75658568&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Stadium<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01191007,38.75658568&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75658568,9.011910070000001,0</coordinates>
@@ -367,7 +367,7 @@
 	</Placemark>
 	<Placemark>
 		<name>La Gare 01</name>
-		<description><![CDATA[La Gare 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01160199,38.74931049&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[La Gare 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01160199,38.74931049&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74931049,9.011601990000001,0</coordinates>
@@ -375,7 +375,7 @@
 	</Placemark>
 	<Placemark>
 		<name>La Gare 02</name>
-		<description><![CDATA[La Gare 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01223436,38.74950623&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[La Gare 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01223436,38.74950623&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74950623,9.012234360000001,0</coordinates>
@@ -383,7 +383,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico 01</name>
-		<description><![CDATA[Mexico 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01137498,38.74581970&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01137498,38.74581970&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7458197,9.011374979999999,0</coordinates>
@@ -391,7 +391,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico 02</name>
-		<description><![CDATA[Mexico 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01004538,38.74622750&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01004538,38.74622750&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7462275,9.010045379999999,0</coordinates>
@@ -399,7 +399,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico 03</name>
-		<description><![CDATA[Mexico 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00916979,38.74400906&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00916979,38.74400906&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74400906,9.00916979,0</coordinates>
@@ -407,7 +407,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico 04</name>
-		<description><![CDATA[Mexico 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01038589,38.74316083&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01038589,38.74316083&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74316083,9.01038589,0</coordinates>
@@ -415,7 +415,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico 05</name>
-		<description><![CDATA[Mexico 05<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01124527,38.74457998&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico 05<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01124527,38.74457998&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74457998,9.01124527,0</coordinates>
@@ -423,7 +423,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bisrate Gabriel</name>
-		<description><![CDATA[Bisrate Gabriel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98864208,38.72313366&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bisrate Gabriel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98864208,38.72313366&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72313366,8.98864208,0</coordinates>
@@ -431,7 +431,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Sarbet</name>
-		<description><![CDATA[Sarbet<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99469723,38.73833449&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Sarbet<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99469723,38.73833449&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73833449,8.99469723,0</coordinates>
@@ -439,7 +439,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Vatikan</name>
-		<description><![CDATA[Vatikan<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98922480,38.73741693&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Vatikan<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98922480,38.73741693&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73741693,8.989224800000001,0</coordinates>
@@ -447,7 +447,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kore</name>
-		<description><![CDATA[Kore<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98278962,38.73407805&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kore<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98278962,38.73407805&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73407805,8.98278962,0</coordinates>
@@ -455,7 +455,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mekanisa</name>
-		<description><![CDATA[Mekanisa<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97374490,38.73178416&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mekanisa<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97374490,38.73178416&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73178416,8.9737449,0</coordinates>
@@ -463,7 +463,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kera 01</name>
-		<description><![CDATA[Kera 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98595654,38.74858052&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kera 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98595654,38.74858052&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74858052,8.98595654,0</coordinates>
@@ -471,7 +471,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kera 02</name>
-		<description><![CDATA[Kera 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98489245,38.74985490&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kera 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98489245,38.74985490&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7498549,8.98489245,0</coordinates>
@@ -479,7 +479,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kera 03</name>
-		<description><![CDATA[Kera 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98448709,38.75074697&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kera 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98448709,38.75074697&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75074697,8.98448709,0</coordinates>
@@ -487,7 +487,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kera 04</name>
-		<description><![CDATA[Kera 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98415773,38.75005880&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kera 04<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98415773,38.75005880&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7500588,8.98415773,0</coordinates>
@@ -495,7 +495,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Gofa Camp</name>
-		<description><![CDATA[Gofa Camp<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97126203,38.74139301&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Gofa Camp<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97126203,38.74139301&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74139301,8.97126203,0</coordinates>
@@ -503,7 +503,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Gotera</name>
-		<description><![CDATA[Gotera<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98067665,38.76010093&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Gotera<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98067665,38.76010093&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76010093,8.98067665,0</coordinates>
@@ -511,7 +511,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Yared (Agona Cinema)</name>
-		<description><![CDATA[Yared (Agona Cinema)<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98752733,38.75973391&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Yared (Agona Cinema)<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98752733,38.75973391&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75973391,8.987527330000001,0</coordinates>
@@ -519,7 +519,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Lancia</name>
-		<description><![CDATA[Lancia<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99022301,38.75914260&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Lancia<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99022301,38.75914260&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7591426,8.990223009999999,0</coordinates>
@@ -527,7 +527,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Michael</name>
-		<description><![CDATA[Michael<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98139617,38.77445048&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Michael<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98139617,38.77445048&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77445048,8.98139617,0</coordinates>
@@ -535,7 +535,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Wolo Sefer 01</name>
-		<description><![CDATA[Wolo Sefer 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99368382,38.77496023&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Wolo Sefer 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99368382,38.77496023&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77496023,8.993683819999999,0</coordinates>
@@ -543,7 +543,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Wolo Sefer 02</name>
-		<description><![CDATA[Wolo Sefer 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99350647,38.77434853&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Wolo Sefer 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99350647,38.77434853&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77434853,8.99350647,0</coordinates>
@@ -551,7 +551,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Wolo Sefer 03</name>
-		<description><![CDATA[Wolo Sefer 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99400912,38.77431692&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Wolo Sefer 03<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99400912,38.77431692&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77431692,8.994009119999999,0</coordinates>
@@ -559,7 +559,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Olympia 01</name>
-		<description><![CDATA[Olympia 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00372168,38.76837932&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Olympia 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00372168,38.76837932&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76837932,9.00372168,0</coordinates>
@@ -567,7 +567,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Olympia 02</name>
-		<description><![CDATA[Olympia 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00378654,38.76787365&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Olympia 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00378654,38.76787365&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76787365,9.00378654,0</coordinates>
@@ -575,7 +575,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Dembel</name>
-		<description><![CDATA[Dembel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00548908,38.76744953&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Dembel<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00548908,38.76744953&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76744953,9.00548908,0</coordinates>
@@ -583,7 +583,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole Rwanda 01</name>
-		<description><![CDATA[Bole Rwanda 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99230659,38.77932473&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole Rwanda 01<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99230659,38.77932473&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77932473,8.99230659,0</coordinates>
@@ -591,7 +591,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole Rwanda 02</name>
-		<description><![CDATA[Bole Rwanda 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99099320,38.77937367&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole Rwanda 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99099320,38.77937367&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77937367,8.9909932,0</coordinates>
@@ -599,7 +599,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole 01 (Teli Bole)</name>
-		<description><![CDATA[Bole 01 (Teli Bole)<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98851237,38.79253753&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole 01 (Teli Bole)<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98851237,38.79253753&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.79253753,8.988512370000001,0</coordinates>
@@ -607,7 +607,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole 02</name>
-		<description><![CDATA[Bole 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98838265,38.79005809&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98838265,38.79005809&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.79005809,8.98838265,0</coordinates>
@@ -615,7 +615,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Brass</name>
-		<description><![CDATA[Brass<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98955415,38.79369365&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Brass<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98955415,38.79369365&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.79369365,8.98955415,0</coordinates>
@@ -623,7 +623,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Tele Bole</name>
-		<description><![CDATA[Tele Bole<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99794015,38.78678650&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Tele Bole<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99794015,38.78678650&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7867865,8.99794015,0</coordinates>
@@ -631,7 +631,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Atlas</name>
-		<description><![CDATA[Atlas<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00381796,38.78013422&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Atlas<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00381796,38.78013422&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78013422,9.003817959999999,0</coordinates>
@@ -639,7 +639,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Imperial</name>
-		<description><![CDATA[Imperial<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00234851,38.79996361&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Imperial<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00234851,38.79996361&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.79996361,9.002348509999999,0</coordinates>
@@ -647,7 +647,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Gerji</name>
-		<description><![CDATA[Gerji<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99472257,38.81365047&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Gerji<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99472257,38.81365047&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.81365047,8.99472257,0</coordinates>
@@ -655,7 +655,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Yerer</name>
-		<description><![CDATA[Yerer<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00351393,38.81370145&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Yerer<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00351393,38.81370145&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.81370145,9.00351393,0</coordinates>
@@ -663,7 +663,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Tekle Haimanot</name>
-		<description><![CDATA[Tekle Haimanot<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02838412,38.74353601&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Tekle Haimanot<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02838412,38.74353601&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74353601,9.02838412,0</coordinates>
@@ -671,7 +671,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Tukur Ambessa</name>
-		<description><![CDATA[Tukur Ambessa<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02139562,38.75208354&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Tukur Ambessa<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02139562,38.75208354&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75208354,9.02139562,0</coordinates>
@@ -679,7 +679,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Beherawi</name>
-		<description><![CDATA[Beherawi<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01608533,38.75161865&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Beherawi<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01608533,38.75161865&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75161865,9.016085329999999,0</coordinates>
@@ -687,7 +687,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Ambassador</name>
-		<description><![CDATA[Ambassador<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01809189,38.75363727&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Ambassador<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01809189,38.75363727&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75363727,9.018091890000001,0</coordinates>
@@ -695,7 +695,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato 01 (main Bus Terminal)</name>
-		<description><![CDATA[Mercato 01 (main Bus Terminal)<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03418490,38.73173829&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato 01 (main Bus Terminal)<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03418490,38.73173829&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73173829,9.0341849,0</coordinates>
@@ -703,7 +703,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato 02</name>
-		<description><![CDATA[Mercato 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02972588,38.73722323&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato 02<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02972588,38.73722323&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73722323,9.029725880000001,0</coordinates>
@@ -711,7 +711,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Pasteur</name>
-		<description><![CDATA[Pasteur<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04622021,38.73030690&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Pasteur<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04622021,38.73030690&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7303069,9.04622021,0</coordinates>
@@ -719,7 +719,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Enkulal Fabrica</name>
-		<description><![CDATA[Enkulal Fabrica<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04876590,38.73776153&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Enkulal Fabrica<br />2009/05/20<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04876590,38.73776153&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73776153,9.048765899999999,0</coordinates>
@@ -727,7 +727,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Asko</name>
-		<description><![CDATA[Asko<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06527846,38.69226623&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Asko<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.06527846,38.69226623&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.69226623,9.06527846,0</coordinates>
@@ -735,7 +735,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Lafto</name>
-		<description><![CDATA[Lafto<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94716110,38.74423321&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Lafto<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94716110,38.74423321&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74423321,8.947161100000001,0</coordinates>
@@ -743,7 +743,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Saris Abo</name>
-		<description><![CDATA[Saris Abo<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94503217,38.76916844&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Saris Abo<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94503217,38.76916844&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76916844,8.945032169999999,0</coordinates>
@@ -751,7 +751,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico05</name>
-		<description><![CDATA[Mexico05<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01048766,38.74697649&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico05<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01048766,38.74697649&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74697649,9.010487660000001,0</coordinates>
@@ -759,7 +759,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Saris</name>
-		<description><![CDATA[Saris<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94449175,38.76634171&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Saris<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94449175,38.76634171&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76634171,8.944491749999999,0</coordinates>
@@ -767,7 +767,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Main Bus Terminal (La Gare)</name>
-		<description><![CDATA[Main Bus Terminal (La Gare)<br />2009/05/27<br /><b>Bus Terminal </b><br />長距離バスターミナル　（ラガール）<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01135362,38.75205835&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Main Bus Terminal (La Gare)<br />2009/05/27<br /><b>Bus Terminal </b><br />長距離バスターミナル　（ラガール）<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01135362,38.75205835&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle1</styleUrl>
 		<Point>
 			<coordinates>38.75205835,9.01135362,0</coordinates>
@@ -775,7 +775,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Main Bus Terminal (Mercato)</name>
-		<description><![CDATA[Main Bus Terminal (Mercato)<br />2009/05/27<br /><b>Bus Terminal </b><br />長距離バスターミナル　（マルカート）<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03460547,38.73180947&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Main Bus Terminal (Mercato)<br />2009/05/27<br /><b>Bus Terminal </b><br />長距離バスターミナル　（マルカート）<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03460547,38.73180947&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle1</styleUrl>
 		<Point>
 			<coordinates>38.73180947,9.034605470000001,0</coordinates>
@@ -783,7 +783,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Main Bus Terminal  (Sarbet)</name>
-		<description><![CDATA[Main Bus Terminal  (Sarbet)<br />2009/05/27<br /><b>Bus Terminal </b><br />長距離バスターミナル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99121490,38.74152808&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Main Bus Terminal  (Sarbet)<br />2009/05/27<br /><b>Bus Terminal </b><br />長距離バスターミナル<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99121490,38.74152808&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle1</styleUrl>
 		<Point>
 			<coordinates>38.74152808,8.991214899999999,0</coordinates>

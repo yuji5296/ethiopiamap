@@ -15,7 +15,7 @@
 	</Style>
 	<Placemark>
 		<name>Argentina</name>
-		<description><![CDATA[Argentina<br />2009/05/13<br />NT<br /><b>Embassy</b><br />2009/05/13<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05559985,38.74207415&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Argentina<br />2009/05/13<br />NT<br /><b>Embassy</b><br />2009/05/13<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05559985,38.74207415&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74207415,9.05559985,0</coordinates>
@@ -23,7 +23,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Poland</name>
-		<description><![CDATA[Poland<br />2009/05/13<br /><b>Embassy</b><br />2009/05/13<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05488941,38.74244437&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Poland<br />2009/05/13<br /><b>Embassy</b><br />2009/05/13<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05488941,38.74244437&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74244437,9.05488941,0</coordinates>
@@ -31,7 +31,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Spain</name>
-		<description><![CDATA[Spain<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.06121564,38.75933987&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Spain<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.06121564,38.75933987&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75933987,9.06121564,0</coordinates>
@@ -39,7 +39,7 @@
 	</Placemark>
 	<Placemark>
 		<name>USA</name>
-		<description><![CDATA[USA<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.05830625,38.76304207&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[USA<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.05830625,38.76304207&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76304207,9.058306249999999,0</coordinates>
@@ -47,7 +47,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Italy</name>
-		<description><![CDATA[Italy<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04727764,38.78609667&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Italy<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04727764,38.78609667&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78609667,9.047277640000001,0</coordinates>
@@ -55,7 +55,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Germany</name>
-		<description><![CDATA[Germany<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03844798,38.77993756&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Germany<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03844798,38.77993756&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77993756,9.038447980000001,0</coordinates>
@@ -63,7 +63,7 @@
 	</Placemark>
 	<Placemark>
 		<name>France</name>
-		<description><![CDATA[France<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.05133725,38.77024453&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[France<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.05133725,38.77024453&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77024453,9.05133725,0</coordinates>
@@ -71,7 +71,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Egypt</name>
-		<description><![CDATA[Egypt<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04636423,38.76395079&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Egypt<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04636423,38.76395079&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76395079,9.04636423,0</coordinates>
@@ -79,7 +79,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Nigeria</name>
-		<description><![CDATA[Nigeria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04727764,38.75233934&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Nigeria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.04727764,38.75233934&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75233934,9.047277640000001,0</coordinates>
@@ -87,7 +87,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Iran</name>
-		<description><![CDATA[Iran<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.05154023,38.72790482&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Iran<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.05154023,38.72790482&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72790482,9.051540230000001,0</coordinates>
@@ -95,7 +95,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Netherland</name>
-		<description><![CDATA[Netherland<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01930014,38.71588950&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Netherland<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01930014,38.71588950&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7158895,9.01930014,0</coordinates>
@@ -103,7 +103,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Sweden</name>
-		<description><![CDATA[Sweden<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01838673,38.74924296&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Sweden<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01838673,38.74924296&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74924296,9.01838673,0</coordinates>
@@ -111,7 +111,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Libya</name>
-		<description><![CDATA[Libya<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01848822,38.75116137&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Libya<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01848822,38.75116137&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75116137,9.01848822,0</coordinates>
@@ -119,7 +119,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Serbia</name>
-		<description><![CDATA[Serbia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01733799,38.76735008&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Serbia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01733799,38.76735008&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76735008,9.01733799,0</coordinates>
@@ -127,7 +127,7 @@
 	</Placemark>
 	<Placemark>
 		<name>India</name>
-		<description><![CDATA[India<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03005811,38.77532664&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[India<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03005811,38.77532664&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77532664,9.030058110000001,0</coordinates>
@@ -135,7 +135,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Russia</name>
-		<description><![CDATA[Russia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03482816,38.78061069&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Russia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03482816,38.78061069&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78061069,9.03482816,0</coordinates>
@@ -143,7 +143,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kenya</name>
-		<description><![CDATA[Kenya<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03381326,38.78202425&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kenya<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03381326,38.78202425&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78202425,9.033813260000001,0</coordinates>
@@ -151,7 +151,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Belgium</name>
-		<description><![CDATA[Belgium<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03225707,38.78427923&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Belgium<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03225707,38.78427923&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78427923,9.03225707,0</coordinates>
@@ -159,7 +159,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Great Britain</name>
-		<description><![CDATA[Great Britain<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03114068,38.78619764&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Great Britain<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.03114068,38.78619764&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78619764,9.03114068,0</coordinates>
@@ -167,7 +167,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Cuba</name>
-		<description><![CDATA[Cuba<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.02609999,38.79515024&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Cuba<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.02609999,38.79515024&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.79515024,9.026099990000001,0</coordinates>
@@ -175,7 +175,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Israel</name>
-		<description><![CDATA[Israel<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.02176974,38.80578565&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Israel<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.02176974,38.80578565&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.80578565,9.02176974,0</coordinates>
@@ -183,7 +183,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico</name>
-		<description><![CDATA[Mexico<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00647853,38.81776731&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00647853,38.81776731&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.81776731,9.006478530000001,0</coordinates>
@@ -191,7 +191,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Slowakia</name>
-		<description><![CDATA[Slowakia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00647853,38.81699322&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Slowakia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00647853,38.81699322&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.81699322,9.006478530000001,0</coordinates>
@@ -199,7 +199,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Venezuela</name>
-		<description><![CDATA[Venezuela<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00678300,38.80514618&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Venezuela<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00678300,38.80514618&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.80514618,9.006783,0</coordinates>
@@ -207,7 +207,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Benin</name>
-		<description><![CDATA[Benin<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00982771,38.78030778&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Benin<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00982771,38.78030778&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78030778,9.00982771,0</coordinates>
@@ -215,7 +215,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bulgaria</name>
-		<description><![CDATA[Bulgaria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01250029,38.77902884&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bulgaria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01250029,38.77902884&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77902884,9.01250029,0</coordinates>
@@ -223,7 +223,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Morocco</name>
-		<description><![CDATA[Morocco<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00025379,38.77266778&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Morocco<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00025379,38.77266778&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77266778,9.00025379,0</coordinates>
@@ -231,7 +231,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Cameroon</name>
-		<description><![CDATA[Cameroon<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00160699,38.76869633&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Cameroon<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00160699,38.76869633&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76869633,9.001606990000001,0</coordinates>
@@ -239,7 +239,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Portugal</name>
-		<description><![CDATA[Portugal<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00411042,38.76741739&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Portugal<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00411042,38.76741739&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76741739,9.00411042,0</coordinates>
@@ -247,7 +247,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Japan</name>
-		<description><![CDATA[Japan<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00938792,38.76479220&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Japan<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00938792,38.76479220&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7647922,9.00938792,0</coordinates>
@@ -255,7 +255,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Sudan</name>
-		<description><![CDATA[Sudan<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00600491,38.74365600&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Sudan<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00600491,38.74365600&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.743656,9.00600491,0</coordinates>
@@ -263,7 +263,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Liberia</name>
-		<description><![CDATA[Liberia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00370446,38.74261265&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Liberia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00370446,38.74261265&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.74261265,9.00370446,0</coordinates>
@@ -271,7 +271,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Botswana</name>
-		<description><![CDATA[Botswana<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00032145,38.71965901&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Botswana<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00032145,38.71965901&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71965901,9.00032145,0</coordinates>
@@ -279,7 +279,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Finland</name>
-		<description><![CDATA[Finland<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00096422,38.72002923&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Finland<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00096422,38.72002923&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72002923,9.00096422,0</coordinates>
@@ -287,7 +287,7 @@
 	</Placemark>
 	<Placemark>
 		<name>R.Korea (South)</name>
-		<description><![CDATA[R.Korea (South)<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00356914,38.71821179&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[R.Korea (South)<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00356914,38.71821179&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71821179,9.00356914,0</coordinates>
@@ -295,7 +295,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Yemen</name>
-		<description><![CDATA[Yemen<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00424574,38.71942342&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Yemen<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00424574,38.71942342&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71942342,9.00424574,0</coordinates>
@@ -303,7 +303,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Switzerland</name>
-		<description><![CDATA[Switzerland<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00532830,38.71787523&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Switzerland<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00532830,38.71787523&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71787523,9.0053283,0</coordinates>
@@ -311,7 +311,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mauritania</name>
-		<description><![CDATA[Mauritania<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00624172,38.71804351&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mauritania<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00624172,38.71804351&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71804351,9.00624172,0</coordinates>
@@ -319,7 +319,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Ghana</name>
-		<description><![CDATA[Ghana<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01212815,38.71511540&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Ghana<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01212815,38.71511540&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7151154,9.012128150000001,0</coordinates>
@@ -327,7 +327,7 @@
 	</Placemark>
 	<Placemark>
 		<name>China</name>
-		<description><![CDATA[China<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00976005,38.71215364&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[China<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.00976005,38.71215364&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.71215364,9.009760050000001,0</coordinates>
@@ -335,7 +335,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Cote d lvoire</name>
-		<description><![CDATA[Cote d lvoire<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98942815,38.71851470&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Cote d lvoire<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98942815,38.71851470&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7185147,8.98942815,0</coordinates>
@@ -343,7 +343,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Austria</name>
-		<description><![CDATA[Austria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99413054,38.72696244&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Austria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99413054,38.72696244&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72696244,8.994130540000001,0</coordinates>
@@ -351,7 +351,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Sahrawi A.D.R</name>
-		<description><![CDATA[Sahrawi A.D.R<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99260818,38.72578447&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Sahrawi A.D.R<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99260818,38.72578447&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72578447,8.99260818,0</coordinates>
@@ -359,7 +359,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Togo</name>
-		<description><![CDATA[Togo<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99166094,38.72729901&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Togo<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99166094,38.72729901&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72729901,8.991660939999999,0</coordinates>
@@ -367,7 +367,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Algeria</name>
-		<description><![CDATA[Algeria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98790580,38.72480844&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Algeria<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98790580,38.72480844&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72480844,8.9879058,0</coordinates>
@@ -375,7 +375,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Malawi</name>
-		<description><![CDATA[Malawi<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98668791,38.72433725&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Malawi<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98668791,38.72433725&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72433725,8.986687910000001,0</coordinates>
@@ -383,7 +383,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Sierra Leone</name>
-		<description><![CDATA[Sierra Leone<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98651876,38.72501037&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Sierra Leone<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98651876,38.72501037&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72501037,8.986518759999999,0</coordinates>
@@ -391,7 +391,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Norway</name>
-		<description><![CDATA[Norway<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98587599,38.72564985&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Norway<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98587599,38.72564985&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72564985,8.98587599,0</coordinates>
@@ -399,7 +399,7 @@
 	</Placemark>
 	<Placemark>
 		<name>D.R Congo</name>
-		<description><![CDATA[D.R Congo<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98695855,38.73251574&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[D.R Congo<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98695855,38.73251574&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73251574,8.986958550000001,0</coordinates>
@@ -407,7 +407,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Zambia</name>
-		<description><![CDATA[Zambia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99588970,38.73483803&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Zambia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99588970,38.73483803&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73483803,8.995889699999999,0</coordinates>
@@ -415,7 +415,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Canada</name>
-		<description><![CDATA[Canada<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99467182,38.73594869&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Canada<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99467182,38.73594869&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73594869,8.994671820000001,0</coordinates>
@@ -423,7 +423,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Vatican</name>
-		<description><![CDATA[Vatican<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98895453,38.73675645&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Vatican<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98895453,38.73675645&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73675645,8.988954530000001,0</coordinates>
@@ -431,7 +431,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Indonesia</name>
-		<description><![CDATA[Indonesia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98814261,38.73682376&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Indonesia<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98814261,38.73682376&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73682376,8.988142610000001,0</coordinates>
@@ -439,7 +439,7 @@
 	</Placemark>
 	<Placemark>
 		<name>South Africa</name>
-		<description><![CDATA[South Africa<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99338627,38.73951627&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[South Africa<br />2009/05/13<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99338627,38.73951627&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.73951627,8.99338627,0</coordinates>
@@ -447,7 +447,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Jmaica</name>
-		<description><![CDATA[Jmaica<br />2009/05/14<br />NT<br /><b>Embassy</b><br />ジャマイカ大使館<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98990903,38.75612729&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Jmaica<br />2009/05/14<br />NT<br /><b>Embassy</b><br />ジャマイカ大使館<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98990903,38.75612729&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75612729,8.98990903,0</coordinates>
@@ -455,7 +455,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Ireland</name>
-		<description><![CDATA[Ireland<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98915970,38.75879380&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Ireland<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98915970,38.75879380&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7587938,8.9891597,0</coordinates>
@@ -463,7 +463,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mali</name>
-		<description><![CDATA[Mali<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99544248,38.76048545&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mali<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99544248,38.76048545&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76048545,8.99544248,0</coordinates>
@@ -471,7 +471,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Greece</name>
-		<description><![CDATA[Greece<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99469316,38.76163233&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Greece<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99469316,38.76163233&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76163233,8.994693160000001,0</coordinates>
@@ -479,7 +479,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Burundi</name>
-		<description><![CDATA[Burundi<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99391502,38.76091553&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Burundi<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99391502,38.76091553&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76091553,8.993915019999999,0</coordinates>
@@ -487,7 +487,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Guinea</name>
-		<description><![CDATA[Guinea<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99319452,38.76120225&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Guinea<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99319452,38.76120225&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76120225,8.993194519999999,0</coordinates>
@@ -495,7 +495,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Niger</name>
-		<description><![CDATA[Niger<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99310806,38.76019873&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Niger<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99310806,38.76019873&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.76019873,8.993108060000001,0</coordinates>
@@ -503,7 +503,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Uganda</name>
-		<description><![CDATA[Uganda<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99575950,38.77014793&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Uganda<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99575950,38.77014793&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77014793,8.9957595,0</coordinates>
@@ -511,7 +511,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Angola</name>
-		<description><![CDATA[Angola<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99555776,38.77229834&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Angola<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99555776,38.77229834&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77229834,8.995557760000001,0</coordinates>
@@ -519,7 +519,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Gabun</name>
-		<description><![CDATA[Gabun<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99218581,38.77301514&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Gabun<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99218581,38.77301514&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77301514,8.992185810000001,0</coordinates>
@@ -527,7 +527,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Saudi Arabia</name>
-		<description><![CDATA[Saudi Arabia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98786280,38.77201162&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Saudi Arabia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98786280,38.77201162&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77201162,8.9878628,0</coordinates>
@@ -535,7 +535,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Turkey</name>
-		<description><![CDATA[Turkey<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99699877,38.77668516&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Turkey<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99699877,38.77668516&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77668516,8.996998769999999,0</coordinates>
@@ -543,7 +543,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Denmark</name>
-		<description><![CDATA[Denmark<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99694113,38.77740196&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Denmark<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99694113,38.77740196&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77740196,8.99694113,0</coordinates>
@@ -551,7 +551,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mauritius</name>
-		<description><![CDATA[Mauritius<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99754635,38.77831947&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mauritius<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99754635,38.77831947&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77831947,8.99754635,0</coordinates>
@@ -559,7 +559,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Romania</name>
-		<description><![CDATA[Romania<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99601888,38.77800408&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Romania<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99601888,38.77800408&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77800408,8.996018879999999,0</coordinates>
@@ -567,7 +567,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Tunisia</name>
-		<description><![CDATA[Tunisia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99544248,38.77722993&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Tunisia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99544248,38.77722993&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77722993,8.99544248,0</coordinates>
@@ -575,7 +575,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Zimbabwe</name>
-		<description><![CDATA[Zimbabwe<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99472198,38.77725860&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Zimbabwe<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99472198,38.77725860&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7772586,8.99472198,0</coordinates>
@@ -583,7 +583,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Djibouti</name>
-		<description><![CDATA[Djibouti<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99408794,38.77734462&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Djibouti<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99408794,38.77734462&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77734462,8.99408794,0</coordinates>
@@ -591,7 +591,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Namibia</name>
-		<description><![CDATA[Namibia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99336744,38.77740196&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Namibia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99336744,38.77740196&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77740196,8.99336744,0</coordinates>
@@ -599,7 +599,7 @@
 	</Placemark>
 	<Placemark>
 		<name>R.Congo</name>
-		<description><![CDATA[R.Congo<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98921735,38.77834814&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[R.Congo<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98921735,38.77834814&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77834814,8.989217350000001,0</coordinates>
@@ -607,7 +607,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Rwanda</name>
-		<description><![CDATA[Rwanda<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98766106,38.77631243&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Rwanda<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98766106,38.77631243&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77631243,8.987661060000001,0</coordinates>
@@ -615,7 +615,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Somalia</name>
-		<description><![CDATA[Somalia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98748814,38.77886424&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Somalia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98748814,38.77886424&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77886424,8.98748814,0</coordinates>
@@ -623,7 +623,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Swaziland</name>
-		<description><![CDATA[Swaziland<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98653708,38.77711524&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Swaziland<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98653708,38.77711524&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77711524,8.98653708,0</coordinates>
@@ -631,7 +631,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Burkina Faso</name>
-		<description><![CDATA[Burkina Faso<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99599006,38.77998245&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Burkina Faso<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99599006,38.77998245&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.77998245,8.995990060000001,0</coordinates>
@@ -639,7 +639,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Madagascar</name>
-		<description><![CDATA[Madagascar<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99832449,38.78181746&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Madagascar<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99832449,38.78181746&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78181746,8.99832449,0</coordinates>
@@ -647,7 +647,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mozambique</name>
-		<description><![CDATA[Mozambique<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99676821,38.78164543&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mozambique<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99676821,38.78164543&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78164543,8.996768210000001,0</coordinates>
@@ -655,7 +655,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Gambia</name>
-		<description><![CDATA[Gambia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99535602,38.78164543&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Gambia<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99535602,38.78164543&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78164543,8.995356019999999,0</coordinates>
@@ -663,7 +663,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Ukraine</name>
-		<description><![CDATA[Ukraine<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99267575,38.78494272&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Ukraine<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99267575,38.78494272&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78494272,8.99267575,0</coordinates>
@@ -671,7 +671,7 @@
 	</Placemark>
 	<Placemark>
 		<name>D.P.R Korea (North)</name>
-		<description><![CDATA[D.P.R Korea (North)<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99227227,38.78571686&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[D.P.R Korea (North)<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99227227,38.78571686&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78571686,8.992272270000001,0</coordinates>
@@ -679,7 +679,7 @@
 	</Placemark>
 	<Placemark>
 		<name>lesotho</name>
-		<description><![CDATA[lesotho<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99183997,38.78505740&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[lesotho<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99183997,38.78505740&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7850574,8.991839969999999,0</coordinates>
@@ -687,7 +687,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Cape Verde</name>
-		<description><![CDATA[Cape Verde<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99207053,38.78646234&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Cape Verde<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99207053,38.78646234&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78646234,8.99207053,0</coordinates>
@@ -695,7 +695,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Senegal</name>
-		<description><![CDATA[Senegal<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99071599,38.78537280&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Senegal<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99071599,38.78537280&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7853728,8.99071599,0</coordinates>
@@ -703,7 +703,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Equatorial Guinea</name>
-		<description><![CDATA[Equatorial Guinea<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99042779,38.78626163&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Equatorial Guinea<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99042779,38.78626163&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78626163,8.99042779,0</coordinates>
@@ -711,7 +711,7 @@
 	</Placemark>
 	<Placemark>
 		<name>State of Palestine</name>
-		<description><![CDATA[State of Palestine<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99054307,38.78362380&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[State of Palestine<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99054307,38.78362380&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.7836238,8.990543069999999,0</coordinates>
@@ -719,7 +719,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Chad</name>
-		<description><![CDATA[Chad<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98999549,38.78307903&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Chad<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98999549,38.78307903&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78307903,8.98999549,0</coordinates>
@@ -727,7 +727,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kuwait</name>
-		<description><![CDATA[Kuwait<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98875622,38.78396787&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kuwait<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98875622,38.78396787&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78396787,8.988756220000001,0</coordinates>
@@ -735,7 +735,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Brazil</name>
-		<description><![CDATA[Brazil<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98529781,38.78454131&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Brazil<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.98529781,38.78454131&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.78454131,8.985297810000001,0</coordinates>
@@ -743,7 +743,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Tanzania</name>
-		<description><![CDATA[Tanzania<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99175351,38.79147995&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Tanzania<br />2009/05/14<br />NT<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=8.99175351,38.79147995&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.79147995,8.991753510000001,0</coordinates>
@@ -751,7 +751,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Hungary</name>
-		<description><![CDATA[Hungary<br />2009/05/17<br />NT<br /><b>Embassy</b><br />ハンガリー大使館<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99433292,38.75003289&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Hungary<br />2009/05/17<br />NT<br /><b>Embassy</b><br />ハンガリー大使館<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99433292,38.75003289&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75003289,8.99433292,0</coordinates>
@@ -759,7 +759,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Czech</name>
-		<description><![CDATA[Czech<br />2009/05/19<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01664467,38.75421263&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Czech<br />2009/05/19<br /><b>Embassy</b><br /><br /><a href="http://maps.google.co.jp/maps?q=9.01664467,38.75421263&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.75421263,9.01664467,0</coordinates>
@@ -767,7 +767,7 @@
 	</Placemark>
 	<Placemark>
 		<name>R.Korea?</name>
-		<description><![CDATA[R.Korea?<br />2009/05/27<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05150346,38.72727643&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[R.Korea?<br />2009/05/27<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05150346,38.72727643&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#iconStyle0</styleUrl>
 		<Point>
 			<coordinates>38.72727643,9.051503459999999,0</coordinates>

@@ -250,7 +250,7 @@
 	</Style>
 	<Placemark>
 		<name>Aire Tena→Kara Kore/Sebeta</name>
-		<description><![CDATA[Aire Tena→Kara Kore/Sebeta<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98246659,38.69491930&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Aire Tena→Kara Kore/Sebeta<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98246659,38.69491930&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle39</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -260,7 +260,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Aire Tena→AlemBank</name>
-		<description><![CDATA[Aire Tena→AlemBank<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98531474,38.69461436&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Aire Tena→AlemBank<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98531474,38.69461436&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle40</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -270,7 +270,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Aire Tena⇔Mercato 02</name>
-		<description><![CDATA[Aire Tena⇔Mercato 02<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00590294,38.71839947&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Aire Tena⇔Mercato 02<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00590294,38.71839947&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle38</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -280,7 +280,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Aire Tena⇔Piazza 02</name>
-		<description><![CDATA[Aire Tena⇔Piazza 02<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01145003,38.72124467&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Aire Tena⇔Piazza 02<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01145003,38.72124467&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle34</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -290,7 +290,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Aire Tena⇔mexico 04</name>
-		<description><![CDATA[Aire Tena⇔mexico 04<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00235701,38.71879216&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Aire Tena⇔mexico 04<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00235701,38.71879216&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle17</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -300,7 +300,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Torailtsh⇔Kidus Rufeal</name>
-		<description><![CDATA[Torailtsh⇔Kidus Rufeal<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03369707,38.74145196&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Torailtsh⇔Kidus Rufeal<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03369707,38.74145196&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle0</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -310,7 +310,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Torailotsh⇔Wingate</name>
-		<description><![CDATA[Torailotsh⇔Wingate<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03361119,38.71449567&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Torailotsh⇔Wingate<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03361119,38.71449567&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle12</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -320,7 +320,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Holland⇔Karanio</name>
-		<description><![CDATA[Holland⇔Karanio<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01774114,38.70516519&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Holland⇔Karanio<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01774114,38.70516519&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle3</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -330,7 +330,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔Mercato 02</name>
-		<description><![CDATA[Piazza⇔Mercato 02<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03399715,38.74307011&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔Mercato 02<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03399715,38.74307011&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle1</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -340,7 +340,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔Mercato 01(main Bus Terminal)</name>
-		<description><![CDATA[Piazza⇔Mercato 01(main Bus Terminal)<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03380878,38.74132711&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔Mercato 01(main Bus Terminal)<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03380878,38.74132711&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle5</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -350,7 +350,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔Lukanda</name>
-		<description><![CDATA[Piazza⇔Lukanda<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03736241,38.72045702&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔Lukanda<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03736241,38.72045702&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle13</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -360,7 +360,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato⇔Barau</name>
-		<description><![CDATA[Mercato⇔Barau<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05688261,38.71088952&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato⇔Barau<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05688261,38.71088952&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle9</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -370,7 +370,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔Barau</name>
-		<description><![CDATA[Piazza⇔Barau<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05447077,38.71534928&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔Barau<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05447077,38.71534928&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle6</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -380,7 +380,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔Shegole</name>
-		<description><![CDATA[Piazza⇔Shegole<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04651620,38.73209920&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔Shegole<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04651620,38.73209920&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle10</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -390,7 +390,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Enkulal Fabrica⇔Kidus Rufeal</name>
-		<description><![CDATA[Enkulal Fabrica⇔Kidus Rufeal<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05424406,38.73317234&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Enkulal Fabrica⇔Kidus Rufeal<br />2009/05/20<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05424406,38.73317234&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle2</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -400,7 +400,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza Georgis⇔Dilber</name>
-		<description><![CDATA[Piazza Georgis⇔Dilber<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05643214,38.74066197&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza Georgis⇔Dilber<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05643214,38.74066197&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle8</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -410,7 +410,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔Mekanisa</name>
-		<description><![CDATA[Piazza⇔Mekanisa<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00550100,38.74239662&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔Mekanisa<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00550100,38.74239662&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle0</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -420,7 +420,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kera⇔Piazza</name>
-		<description><![CDATA[Kera⇔Piazza<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01229826,38.74721092&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kera⇔Piazza<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01229826,38.74721092&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle12</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -430,7 +430,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico⇔Bisrate Gabriel</name>
-		<description><![CDATA[Mexico⇔Bisrate Gabriel<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99479444,38.73772541&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico⇔Bisrate Gabriel<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99479444,38.73772541&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle24</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -440,7 +440,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mekanisa⇔Sost Kutir Mazoria</name>
-		<description><![CDATA[Mekanisa⇔Sost Kutir Mazoria<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98245366,38.72873509&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mekanisa⇔Sost Kutir Mazoria<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98245366,38.72873509&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle4</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -450,7 +450,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato⇔Mekanisa</name>
-		<description><![CDATA[Mercato⇔Mekanisa<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00421039,38.74171154&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato⇔Mekanisa<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00421039,38.74171154&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle11</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -460,7 +460,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato⇔(Lideta)⇔Mekanisa</name>
-		<description><![CDATA[Mercato⇔(Lideta)⇔Mekanisa<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00711380,38.74292455&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato⇔(Lideta)⇔Mekanisa<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00711380,38.74292455&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle37</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -470,7 +470,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mekanisa⇔Mebrat/Kiana</name>
-		<description><![CDATA[Mekanisa⇔Mebrat/Kiana<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.96901271,38.73126783&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mekanisa⇔Mebrat/Kiana<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.96901271,38.73126783&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle38</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -480,7 +480,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kera⇔Sarbet</name>
-		<description><![CDATA[Kera⇔Sarbet<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98907190,38.74343038&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kera⇔Sarbet<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98907190,38.74343038&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle19</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -490,7 +490,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Kera⇔Gofa Camp</name>
-		<description><![CDATA[Kera⇔Gofa Camp<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97643672,38.74800405&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Kera⇔Gofa Camp<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97643672,38.74800405&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle14</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -500,7 +500,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico⇔Lafto</name>
-		<description><![CDATA[Mexico⇔Lafto<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97607652,38.74897416&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico⇔Lafto<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.97607652,38.74897416&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle16</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -510,7 +510,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato⇔（Gotera)⇔Saris</name>
-		<description><![CDATA[Mercato⇔（Gotera)⇔Saris<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98912200,38.74829882&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato⇔（Gotera)⇔Saris<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98912200,38.74829882&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle7</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -520,7 +520,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato⇔(Stadium/Gotera)⇔Saris</name>
-		<description><![CDATA[Mercato⇔(Stadium/Gotera)⇔Saris<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99896224,38.75845008&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato⇔(Stadium/Gotera)⇔Saris<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99896224,38.75845008&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle36</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -530,7 +530,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔(Gotera)⇔Kera</name>
-		<description><![CDATA[Piazza⇔(Gotera)⇔Kera<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00604306,38.75897192&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔(Gotera)⇔Kera<br />2009/05/21<br />Minibus Route<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00604306,38.75897192&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle20</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -540,7 +540,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole Olympia⇔Yared(Agona Cinema)</name>
-		<description><![CDATA[Bole Olympia⇔Yared(Agona Cinema)<br />2009/05/21<br />1Birr Taxi Route <br /><br /><a href="http://maps.google.co.jp/maps?q=8.99344075,38.76642530&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole Olympia⇔Yared(Agona Cinema)<br />2009/05/21<br />1Birr Taxi Route <br /><br /><a href="http://maps.google.co.jp/maps?q=8.99344075,38.76642530&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle19</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -550,7 +550,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Wolo Sefer⇔Gotera</name>
-		<description><![CDATA[Wolo Sefer⇔Gotera<br />2009/05/21<br />1Birr Taxi Route <br /><br /><a href="http://maps.google.co.jp/maps?q=8.98642599,38.76887364&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Wolo Sefer⇔Gotera<br />2009/05/21<br />1Birr Taxi Route <br /><br /><a href="http://maps.google.co.jp/maps?q=8.98642599,38.76887364&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle19</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -560,7 +560,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole road⇔Tele Bole road</name>
-		<description><![CDATA[Bole road⇔Tele Bole road<br />2009/05/21<br />1Birr Taxi Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99572849,38.78310691&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole road⇔Tele Bole road<br />2009/05/21<br />1Birr Taxi Route<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99572849,38.78310691&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle19</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -570,7 +570,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole Olympia⇔Michael</name>
-		<description><![CDATA[Bole Olympia⇔Michael<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99239201,38.77811976&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole Olympia⇔Michael<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.99239201,38.77811976&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle26</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -580,7 +580,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole⇔Mexico</name>
-		<description><![CDATA[Bole⇔Mexico<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00212639,38.76912583&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole⇔Mexico<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00212639,38.76912583&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle29</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -590,7 +590,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole⇔Piazza</name>
-		<description><![CDATA[Bole⇔Piazza<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00657189,38.76674781&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole⇔Piazza<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00657189,38.76674781&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle31</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -600,7 +600,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole⇔Arat Kilo</name>
-		<description><![CDATA[Bole⇔Arat Kilo<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00570190,38.76754368&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole⇔Arat Kilo<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00570190,38.76754368&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle21</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -610,7 +610,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole⇔Bole International Airport</name>
-		<description><![CDATA[Bole⇔Bole International Airport<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98489249,38.79264953&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole⇔Bole International Airport<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.98489249,38.79264953&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle15</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -620,7 +620,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Meganania⇔Aire　Tena</name>
-		<description><![CDATA[Meganania⇔Aire　Tena<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.93636495,38.76911714&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Meganania⇔Aire　Tena<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.93636495,38.76911714&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle35</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -630,7 +630,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Saris Abo⇔Bole Bulbula</name>
-		<description><![CDATA[Saris Abo⇔Bole Bulbula<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94321044,38.77351873&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Saris Abo⇔Bole Bulbula<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=8.94321044,38.77351873&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle33</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -640,7 +640,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Piazza⇔Meganania</name>
-		<description><![CDATA[Piazza⇔Meganania<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03300707,38.77555501&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Piazza⇔Meganania<br />2009/05/21<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03300707,38.77555501&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle31</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -650,7 +650,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Brass⇔Arat Kilo</name>
-		<description><![CDATA[Brass⇔Arat Kilo<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01780335,38.76980925&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Brass⇔Arat Kilo<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01780335,38.76980925&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle25</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -660,7 +660,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Poazza⇔(Kazaches/Haya hulet)⇔Meganania</name>
-		<description><![CDATA[Poazza⇔(Kazaches/Haya hulet)⇔Meganania<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01850580,38.76926913&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Poazza⇔(Kazaches/Haya hulet)⇔Meganania<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01850580,38.76926913&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle16</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -670,7 +670,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato⇔Meganania</name>
-		<description><![CDATA[Mercato⇔Meganania<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01680102,38.76670326&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato⇔Meganania<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01680102,38.76670326&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle20</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -680,7 +680,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mexico⇔Meganania</name>
-		<description><![CDATA[Mexico⇔Meganania<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01071307,38.77440484&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mexico⇔Meganania<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01071307,38.77440484&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle18</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -690,7 +690,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mercato⇔Brass</name>
-		<description><![CDATA[Mercato⇔Brass<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01653514,38.76749045&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mercato⇔Brass<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01653514,38.76749045&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle22</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -700,7 +700,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Mwxico⇔Kazanches</name>
-		<description><![CDATA[Mwxico⇔Kazanches<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01753134,38.75742161&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Mwxico⇔Kazanches<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01753134,38.75742161&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle23</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -710,7 +710,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo⇔(Aware)⇔Kazanches</name>
-		<description><![CDATA[Arat Kilo⇔(Aware)⇔Kazanches<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02707590,38.77493998&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo⇔(Aware)⇔Kazanches<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.02707590,38.77493998&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle29</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -720,7 +720,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Haya Hulet⇔Tele Bole</name>
-		<description><![CDATA[Haya Hulet⇔Tele Bole<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00686786,38.78897767&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Haya Hulet⇔Tele Bole<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00686786,38.78897767&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle34</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -730,7 +730,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo⇔(Shiromeda)⇔Entoto</name>
-		<description><![CDATA[Arat Kilo⇔(Shiromeda)⇔Entoto<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05463647,38.76252583&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo⇔(Shiromeda)⇔Entoto<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.05463647,38.76252583&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle28</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -740,7 +740,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Arat Kilo⇔Ferenzei</name>
-		<description><![CDATA[Arat Kilo⇔Ferenzei<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04596077,38.76742262&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Arat Kilo⇔Ferenzei<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.04596077,38.76742262&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle27</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -750,7 +750,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Meganania⇔Kotobe/Kara/Furi</name>
-		<description><![CDATA[Meganania⇔Kotobe/Kara/Furi<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03215262,38.82187016&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Meganania⇔Kotobe/Kara/Furi<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.03215262,38.82187016&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle30</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -760,7 +760,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Meganania⇔CMC/Salitemehret/Samit/Hayat</name>
-		<description><![CDATA[Meganania⇔CMC/Salitemehret/Samit/Hayat<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01910309,38.82431025&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Meganania⇔CMC/Salitemehret/Samit/Hayat<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.01910309,38.82431025&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle34</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -770,7 +770,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Meganania⇔Yerer</name>
-		<description><![CDATA[Meganania⇔Yerer<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00228483,38.80015694&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Meganania⇔Yerer<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00228483,38.80015694&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle21</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -780,7 +780,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Meganania⇔Gerji</name>
-		<description><![CDATA[Meganania⇔Gerji<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00236418,38.79967435&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Meganania⇔Gerji<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00236418,38.79967435&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle32</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>
@@ -790,7 +790,7 @@
 	</Placemark>
 	<Placemark>
 		<name>Bole⇔Gerji</name>
-		<description><![CDATA[Bole⇔Gerji<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00193305,38.80052109&hl=ja">Googleマップ</a>]]></description>
+		<description><![CDATA[Bole⇔Gerji<br />2009/05/26<br /><br /><a href="http://maps.google.co.jp/maps?q=9.00193305,38.80052109&hl=ja">Google Map</a>]]></description>
 		<styleUrl>#lineStyle19</styleUrl>
 		<LineString>
 			<tessellate>1</tessellate>

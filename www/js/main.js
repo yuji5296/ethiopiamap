@@ -71,19 +71,42 @@ function initGMaps() {
         //var geoXml = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_Route_AA.kml"); 
         //map.addOverlay(geoXml); 
         //marker1 = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_Route_AA.kml"); 
-        marker1 = new GGeoXml(BaseURL + "kml/Minibus_Route_AA.kml"); 
+        marker1 = new GGeoXml(BaseURL + "kmz/Minibus_Route_AA.kmz"); 
         map.addOverlay(marker1); 
         //marker2 = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/embassy_location_AA.kml"); 
-        marker2 = new GGeoXml(BaseURL + "kml/embassy_location_AA.kml"); 
+        marker2 = new GGeoXml(BaseURL +"kmz/Minibus_station_location_AA.kmz" ); 
         map.addOverlay(marker2); 
         //marker3 = new GGeoXml("http://www.ethiopiamap.sakura.ne.jp/kml/Minibus_station_location_AA.kml");
-        marker3 = new GGeoXml(BaseURL +"kml/Minibus_station_location_AA.kml");
+        marker3 = new GGeoXml(BaseURL +"kmz/embassy_location_AA.kmz");
         map.addOverlay(marker3); 
+        marker4 = new GGeoXml(BaseURL +"kmz/Education_location_AA.kmz");
+        map.addOverlay(marker4); 
+        marker5 = new GGeoXml(BaseURL +"kmz/Hospital_location_AA.kmz");
+        map.addOverlay(marker5); 
+        marker6 = new GGeoXml(BaseURL +"kmz/Int_organaization_AA");
+        map.addOverlay(marker6); 
+        marker7 = new GGeoXml(BaseURL +"kmz/Public_inst_location_AA.kmz");
+        map.addOverlay(marker7); 
+        marker8 = new GGeoXml(BaseURL +"kmz/Religious_inst_location_AA.kmz");
+        map.addOverlay(marker8); 
+        marker9 = new GGeoXml(BaseURL +"kmz/Sightseeing_location_AA.kmz");
+        map.addOverlay(marker9); 
+        
+        
         //marker1 = new GMarker(new GLatLng(36.02, 139.16));
         //marker2 = new GMarker(new GLatLng(36.03, 139.17));
         marker1_is_displayed = 1;
         marker2_is_displayed = 1;
         marker3_is_displayed = 1;
+        marker4_is_displayed = 1;
+        marker5_is_displayed = 1;
+        marker6_is_displayed = 1;
+        marker7_is_displayed = 1;
+        marker8_is_displayed = 1;
+        marker9_is_displayed = 1;
+        
+        
+        
 
 		//map.setMapType(G_SATELLITE_3D_MAP);
         
@@ -171,6 +194,66 @@ function checkbox3clicked() {
       } else {
         map.removeOverlay(marker3);
         marker3_is_displayed = 0;
+      }
+}
+
+function checkbox4clicked() {
+      if (marker4_is_displayed == 0) {
+        map.addOverlay(marker4);
+        marker4_is_displayed = 1;
+      } else {
+        map.removeOverlay(marker4);
+        marker4_is_displayed = 0;
+      }
+}
+
+function checkbox5clicked() {
+      if (marker5_is_displayed == 0) {
+        map.addOverlay(marker5);
+        marker5_is_displayed = 1;
+      } else {
+        map.removeOverlay(marker5);
+        marker5_is_displayed = 0;
+      }
+}
+
+function checkbox6clicked() {
+      if (marker6_is_displayed == 0) {
+        map.addOverlay(marker6);
+        marker6_is_displayed = 1;
+      } else {
+        map.removeOverlay(marker6);
+        marker6_is_displayed = 0;
+      }
+}
+
+function checkbox7clicked() {
+      if (marker7_is_displayed == 0) {
+        map.addOverlay(marker7);
+        marker7_is_displayed = 1;
+      } else {
+        map.removeOverlay(marker7);
+        marker7_is_displayed = 0;
+      }
+}
+
+function checkbox8clicked() {
+      if (marker8_is_displayed == 0) {
+        map.addOverlay(marker8);
+        marker8_is_displayed = 1;
+      } else {
+        map.removeOverlay(marker8);
+        marker8_is_displayed = 0;
+      }
+}
+
+function checkbox9clicked() {
+      if (marker9_is_displayed == 0) {
+        map.addOverlay(marker9);
+        marker9_is_displayed = 1;
+      } else {
+        map.removeOverlay(marker9);
+        marker9_is_displayed = 0;
       }
 }
 
